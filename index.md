@@ -20,17 +20,28 @@
 <dt>Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.</dt>
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. (https://hal.archives-ouvertes.fr/hal-01980261)</dd>
 <dt>Mobile multi-depot vehicle routing problem.</dt> 
- <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
 </dl>
 
 
 # Communications towards general public
+<dl>
+<dt>The Future of Digital Intelligence – Ethics, Impact and Prudence.</dt>
+<dd>Confluence 2019 Edition V. IFIM Business School and IFIM Law School, 26th February 2019, Bangalore, India.</dd>
 
-- ***The Future of Digital Intelligence – Ethics, Impact and Prudence.*** Confluence 2019 Edition V. IFIM Business School and IFIM Law School, 26th February 2019, Bangalore, India.
-- ***Law & Regulation of AI: A Global Perspective.*** AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. ([Read publication](https://hal.archives-ouvertes.fr/hal-02055595))
-- ***Les données, base d’apprentissage de l’intelligence artificielle.*** Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". Université Paris Descartes, 8th February 2018, Paris, France.
-- ***Le procès de l'intelligence artificielle et de la voiture autonome.*** La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, France.
-- ***Future trends and technologies for Urban Mobility and City Logistics***, MINES ParisTech, 17th May 2018.
-- ***Bionumeric City***, International Workshop at the Cité des Sciences et de l'Industrie, 9th February 2017.
+<dt>Law & Regulation of AI: A Global Perspective.</dt>
+<dd>AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. (https://hal.archives-ouvertes.fr/hal-02055595)</dd>
 
+<dt>Les données, base d’apprentissage de l’intelligence artificielle.</dt>
+<dd>Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". Université Paris Descartes, 8th February 2018, Paris, France.</dd>
+
+<dt>Le procès de l'intelligence artificielle et de la voiture autonome.</dt>
+<dd>La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, France.</dd>
+
+<dt>Future trends and technologies for Urban Mobility and City Logistics.</dt>
+<dd>MINES ParisTech, 17th May 2018.</dd>
+
+<dt>Bionumeric City</dt>
+<dd>International Workshop at the Cité des Sciences et de l'Industrie, 9th February 2017.</dd>
+</dl>
 
