@@ -5,9 +5,9 @@
 
 <dl>
 <dt>Optimization and Decision Support</dt>
-<dd>ESSEC – 25-hours class in Pre-Master of Business Administration.</dd>
+<dd>ESSEC | 25-hours class in Pre-Master of Business Administration.</dd>
 <dt>Modelling and simulation for City Logistics</dt>
-<dd>MINES ParisTech – ATHENS international program.</dd>
+<dd>MINES ParisTech | ATHENS international program.</dd>
 </dl>
 
 # Publications
