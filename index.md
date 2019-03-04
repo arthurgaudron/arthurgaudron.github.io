@@ -17,10 +17,10 @@
 
 # Communications
 <dl>
-<dd>***Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.***</dd>
-<dt>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. ([Read publication](https://hal.archives-ouvertes.fr/hal-01980261))</dt>
-<dd>***Mobile multi-depot vehicle routing problem.***<.dd> 
- <dt>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dt>
+<dt>***Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.***</dt>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. ([Read publication](https://hal.archives-ouvertes.fr/hal-01980261))</dd>
+<dt>***Mobile multi-depot vehicle routing problem.***<.dt> 
+ <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
 </dl>
 
 
