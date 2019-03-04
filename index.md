@@ -13,7 +13,7 @@
 - ***Simulating impacts of regulatory policies on urban freight: application to the catering setting.*** Sarra Jlassi, Simon Tamayo, Arthur Gaudron, Arnaud De La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. ([Read publication](https://doi.org/10.1109/ICAdLT.2017.8547005))
 - ***Statistic regression and open data approach for identifying economic indicators that influence e-commerce.*** Apollinaire Barme, Simon Tamayo, Gaudron Arthur.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. ([Read publication](https://hal.archives-ouvertes.fr/hal-01790991))
 - ***Simulation Applied to Urban Logistics: A State Of The Art.*** Sarra Jlassi, Simon Tamayo, Arthur Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. Proceedings of 10th International Conference on City Logistics, 2017. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541556/)).
-- ***Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.*** Simon Tamayo, Arthur Gaudron, Arnaud De La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. Proceedings of 10th International Conference on City Logistics, 2017. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).
+- ***Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.*** Simon Tamayo, Arthur Gaudron, Arnaud De La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).
 
 # Communications
 
