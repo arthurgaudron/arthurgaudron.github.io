@@ -43,22 +43,23 @@
 # Communications towards general public
 <dl>
 <dt>The Future of Digital Intelligence – Ethics, Impact and Prudence.</dt>
-<dd>Confluence 2019 Edition V. IFIM Business School and IFIM Law School, 26th February 2019, Bangalore, India.</dd>
+<dd>Confluence 2019 Edition V.   <a href="http://ifimbschool.com/">IFIM Business School</a>   and <a href="http://www.ifimlawcollege.com/">IFIM Law School</a>, 26th February 2019, Bangalore, India.</dd>
 
 <dt>Law & Regulation of AI: A Global Perspective.</dt>
-<dd>AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a>
+<dd>AD IDEM 2019 International Law Conference,  <a href="http://www.ifimlawcollege.com/">IFIM Law School</a>, 25th February 2019, Bangalore, India. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a>
 </dd>
 
 <dt>Les données, base d’apprentissage de l’intelligence artificielle.</dt>
-<dd>Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". Université Paris Descartes, 8th February 2018, Paris, France.</dd>
+<dd>Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". <a href="https://www.parisdescartes.fr/">Université Paris Descartes</a>, 8th February 2018, Paris, France.</dd>
 
 <dt>Le procès de l'intelligence artificielle et de la voiture autonome.</dt>
 <dd>La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, France.</dd>
 
 <dt>Future trends and technologies for Urban Mobility and City Logistics.</dt>
-<dd>MINES ParisTech, 17th May 2018, Paris, France.</dd>
+<dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a>, 17th May 2018, Paris, France.</dd>
 
 <dt>Bionumeric City</dt>
-<dd>International Workshop at the Cité des Sciences et de l'Industrie, 9th February 2017.</dd>
+<dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a>, 9th February 2017.</dd>
 </dl>
 
+<!-- <a href=""></a> -->
