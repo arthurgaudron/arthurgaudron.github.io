@@ -30,7 +30,7 @@
 <dd>Confluence 2019 Edition V. IFIM Business School and IFIM Law School, 26th February 2019, Bangalore, India.</dd>
 
 <dt>Law & Regulation of AI: A Global Perspective.</dt>
-<dd>AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. (https://hal.archives-ouvertes.fr/hal-02055595)</dd>
+<dd>AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. [https://hal.archives-ouvertes.fr/hal-02055595]</dd>
 
 <dt>Les données, base d’apprentissage de l’intelligence artificielle.</dt>
 <dd>Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". Université Paris Descartes, 8th February 2018, Paris, France.</dd>
