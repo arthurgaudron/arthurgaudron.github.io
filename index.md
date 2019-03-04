@@ -14,5 +14,5 @@
 
 # Teaching activities
 
-- ATHENS
-- ESSEC
+- ***ESSEC*** - External Lecturer – 25-hour class on "Optimization and Decision Support" in Pre-Master of Business Administration.
+- ***MINES ParisTech*** - "Modeling and simulation for City Logistics" in ATHENS program.
