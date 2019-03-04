@@ -39,7 +39,7 @@
 <dd>La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, France.</dd>
 
 <dt>Future trends and technologies for Urban Mobility and City Logistics.</dt>
-<dd>MINES ParisTech, 17th May 2018.</dd>
+<dd>MINES ParisTech, 17th May 2018, Paris, France.</dd>
 
 <dt>Bionumeric City</dt>
 <dd>International Workshop at the Cité des Sciences et de l'Industrie, 9th February 2017.</dd>
