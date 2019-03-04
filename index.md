@@ -1,3 +1,11 @@
+# Research activites
+
+
+# Teaching activities
+
+- ***ESSEC*** - "Optimization and Decision Support" (25 hours) in Pre-Master of Business Administration.
+- ***MINES ParisTech*** - "Modeling and simulation for City Logistics" in ATHENS program.
+
 
 # Publications
 - ***Interactive Simulation To Explore Urban Distribution Schemes.*** Arthur Gaudron, Simon Tamayo, Arnaud De La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. ([Read publication](https://doi.org/10.1016/j.trpro.2018.12.168))
@@ -20,7 +28,4 @@
 - ***"Future trends and technologies for Urban Mobility and City Logistics"***, MINES ParisTech, 17th May 2018.
 - ***" Bionumeric City"***, International Workshop at the Cité des Sciences et de l'Industrie, 9th February 2017.
 
-# Teaching activities
 
-- ***ESSEC*** - "Optimization and Decision Support" (25 hours) in Pre-Master of Business Administration.
-- ***MINES ParisTech*** - "Modeling and simulation for City Logistics" in ATHENS program.
