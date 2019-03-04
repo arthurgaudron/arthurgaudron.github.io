@@ -15,6 +15,18 @@
 - ***Simulation Applied to Urban Logistics: A State Of The Art.*** S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541556/)).
 - ***Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.*** S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).
 
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+
 # Communications
 <dl>
 <dt>***Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.***</dt>
