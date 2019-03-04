@@ -15,22 +15,10 @@
 - ***Simulation Applied to Urban Logistics: A State Of The Art.*** S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541556/)).
 - ***Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.*** S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-
 # Communications
 <dl>
 <dt>Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.</dt>
-<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. ([Read publication](https://hal.archives-ouvertes.fr/hal-01980261))</dd>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. (https://hal.archives-ouvertes.fr/hal-01980261)</dd>
 <dt>Mobile multi-depot vehicle routing problem.</dt> 
  <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
 </dl>
