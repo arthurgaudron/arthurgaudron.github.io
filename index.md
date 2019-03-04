@@ -10,14 +10,13 @@
 # Publications
 - ***Trial of an AI: Empowering people to explore law and science challenges.*** A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, 2019. ([Read publication](https://hal.archives-ouvertes.fr/hal-02055595)) 
 - ***Interactive Simulation To Explore Urban Distribution Schemes.*** A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. ([Read publication](https://doi.org/10.1016/j.trpro.2018.12.168))
--  ***Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.*** A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. ([Read publication](https://hal.archives-ouvertes.fr/hal-01980261))
 - ***Simulating impacts of regulatory policies on urban freight: application to the catering setting.*** S. Jlassi, S. Tamayo, A. Gaudron, A. de La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. ([Read publication](https://doi.org/10.1109/ICAdLT.2017.8547005))
 - ***Statistic regression and open data approach for identifying economic indicators that influence e-commerce.*** A. Barme, S. Tamayo, A. Gaudron.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. ([Read publication](https://hal.archives-ouvertes.fr/hal-01790991))
 - ***Simulation Applied to Urban Logistics: A State Of The Art.*** S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541556/)).
 - ***Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.*** S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).
 
 # Communications
-
+-  ***Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.*** A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France. ([Read publication](https://hal.archives-ouvertes.fr/hal-01980261))
 - ***Mobile multi-depot vehicle routing problem.*** A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.
 
 # Communications towards general public
