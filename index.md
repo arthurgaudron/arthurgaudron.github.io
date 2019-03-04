@@ -10,28 +10,28 @@
 # Publications
 <dl>
 <dt>Trial of an AI: Empowering people to explore law and science challenges.</dt>
-<dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, 2019.<a href="https://hal.archives-ouvertes.fr/hal-02055595">https://hal.archives-ouvertes.fr/hal-02055595</a> </dd>
+<dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
 
 <dt>Interactive Simulation To Explore Urban Distribution Schemes.</dt>
-<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">https://doi.org/10.1016/j.trpro.2018.12.168</a></dd>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
 
 <dt>Simulating impacts of regulatory policies on urban freight: application to the catering setting.</dt>
-<dd>S. Jlassi, S. Tamayo, A. Gaudron, A. de La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. <a href="https://doi.org/10.1109/ICAdLT.2017.8547005">https://doi.org/10.1109/ICAdLT.2017.8547005</a></dd>
+<dd>S. Jlassi, S. Tamayo, A. Gaudron, A. de La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. <a href="https://doi.org/10.1109/ICAdLT.2017.8547005">Read publication</a></dd>
 
 <dt>Statistic regression and open data approach for identifying economic indicators that influence e-commerce.</dt>
-<dd>A. Barme, S. Tamayo, A. Gaudron.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. <a href="https://hal.archives-ouvertes.fr/hal-01790991">https://hal.archives-ouvertes.fr/hal-01790991</a></dd>
+<dd>A. Barme, S. Tamayo, A. Gaudron.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. <a href="https://hal.archives-ouvertes.fr/hal-01790991">Read publication</a></dd>
 
 <dt>Simulation Applied to Urban Logistics: A State Of The Art.</dt>
-<dd>S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541556/">https://hal.archives-ouvertes.fr/hal-01541556/</a>.</dd>
+<dd>S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541556/">Read publication</a>.</dd>
 
 <dt>Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.</dt>
-<dd>S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541501/">https://hal.archives-ouvertes.fr/hal-01541501/</a></dd>
+<dd>S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541501/">Read publication</a></dd>
 </dl>
 
 # Communications
 <dl>
 <dt>Simulation de l'utilisation des aires de livraisons en ville par la méthode de Monte-Carlo.</dt>
-<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France.<a href="https://hal.archives-ouvertes.fr/hal-01980261">https://hal.archives-ouvertes.fr/hal-01980261</a></dd>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France.<a href="https://hal.archives-ouvertes.fr/hal-01980261">Read publication</a></dd>
 <dt>Mobile multi-depot vehicle routing problem.</dt> 
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
 </dl>
@@ -43,7 +43,7 @@
 <dd>Confluence 2019 Edition V. IFIM Business School and IFIM Law School, 26th February 2019, Bangalore, India.</dd>
 
 <dt>Law & Regulation of AI: A Global Perspective.</dt>
-<dd>AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. <a href="https://hal.archives-ouvertes.fr/hal-02055595">https://hal.archives-ouvertes.fr/hal-02055595</a>
+<dd>AD IDEM 2019 International Law Conference, IFIM Law School, 25th February 2019, Bangalore, India. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a>
 </dd>
 
 <dt>Les données, base d’apprentissage de l’intelligence artificielle.</dt>
