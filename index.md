@@ -1,7 +1,7 @@
 
 # Publications
 
-- Sarra Jlassi, Simon Tamayo, Arthur Gaudron. (Simulation Applied to Urban Logistics: A State Of The Art)[https://hal.archives-ouvertes.fr/hal-01541556/]. Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. Proceedings of 10th International Conference on City Logistics, 2017.
+- Sarra Jlassi, Simon Tamayo, Arthur Gaudron. Simulation Applied to Urban Logistics: A State Of The Art. Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. Proceedings of 10th International Conference on City Logistics, 2017. [read publication](https://hal.archives-ouvertes.fr/hal-01541556/)
 
 # Communications
 
