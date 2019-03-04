@@ -3,9 +3,12 @@
 
 # Teaching activities
 
-- ***ESSEC*** - "Optimization and Decision Support" (25 hours) in Pre-Master of Business Administration.
-- ***MINES ParisTech*** - "Modeling and simulation for City Logistics" in ATHENS program.
-
+<dl>
+<dt>Optimization and Decision Support</dt>
+<dd>ESSEC – 25-hours class in Pre-Master of Business Administration.</dd>
+<dt>Modelling and simulation for City Logistics</dt>
+<dd>MINES ParisTech – ATHENS international program.</dd>
+</dl>
 
 # Publications
 <dl>
