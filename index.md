@@ -1,4 +1,4 @@
-# Research activites
+# Research activities
 
 
 # Teaching activities
