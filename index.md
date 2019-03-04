@@ -27,6 +27,7 @@
 
 <dt>Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.</dt>
 <dd>S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).</dd>
+</dl>
 
 # Communications
 <dl>
