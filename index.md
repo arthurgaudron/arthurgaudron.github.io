@@ -1,7 +1,8 @@
 
 # Publications
-
+- Arthur Gaudron, Simon Tamayo, Arnaud De La Fortelle. Interactive Simulation To Explore Urban Distribution Schemes. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. ([Read publication](https://doi.org/10.1016/j.trpro.2018.12.168))
 - Sarra Jlassi, Simon Tamayo, Arthur Gaudron. Simulation Applied to Urban Logistics: A State Of The Art. Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. Proceedings of 10th International Conference on City Logistics, 2017. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541556/)).
+- Simon Tamayo, Arthur Gaudron, Arnaud De La Fortelle. Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data. Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. Proceedings of 10th International Conference on City Logistics, 2017. ([Read publication](https://hal.archives-ouvertes.fr/hal-01541501/)).
 
 # Communications
 
