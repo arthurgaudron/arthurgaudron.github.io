@@ -18,11 +18,11 @@
 <dt>Interactive Simulation To Explore Urban Distribution Schemes.</dt>
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
 
-<dt>Simulating impacts of regulatory policies on urban freight: application to the catering setting.</dt>
-<dd>S. Jlassi, S. Tamayo, A. Gaudron, A. de La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. <a href="https://doi.org/10.1109/ICAdLT.2017.8547005">Read publication</a></dd>
-
 <dt>Statistic regression and open data approach for identifying economic indicators that influence e-commerce.</dt>
 <dd>A. Barme, S. Tamayo, A. Gaudron.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. <a href="https://hal.archives-ouvertes.fr/hal-01790991">Read publication</a></dd>
+
+<dt>Simulating impacts of regulatory policies on urban freight: application to the catering setting.</dt>
+<dd>S. Jlassi, S. Tamayo, A. Gaudron, A. de La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. <a href="https://doi.org/10.1109/ICAdLT.2017.8547005">Read publication</a></dd>
 
 <dt>Simulation Applied to Urban Logistics: A State Of The Art.</dt>
 <dd>S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541556/">Read publication</a>.</dd>
