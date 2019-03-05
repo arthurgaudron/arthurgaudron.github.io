@@ -62,4 +62,7 @@
 <dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a>, 9th February 2017.</dd>
 </dl>
 
+# Few notes about optimisation engine and visualization tools
+
+
 <!-- <a href=""></a> -->
