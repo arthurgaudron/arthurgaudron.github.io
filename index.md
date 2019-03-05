@@ -13,7 +13,7 @@
 # Publications
 <dl>
 <dt>Trial of an AI: Empowering people to explore law and science challenges.</dt>
-<dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
+<dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
 
 <dt>Interactive Simulation To Explore Urban Distribution Schemes.</dt>
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
