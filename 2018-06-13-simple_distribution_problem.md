@@ -1,11 +1,5 @@
 ---
-layout: post
 title: Simple Distribution Problem
-tags:
-- Optimisation
-- Network flow
-- Gurobi
-excerpt_separator: <!--more-->
 
 ---
 
