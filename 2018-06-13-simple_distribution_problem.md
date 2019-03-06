@@ -1,7 +1,4 @@
-
-
-
-# Problem
+# Simple Distribution Problem
 
 This example is taken from the MOOC MITx: CTL.SC2x ([edX plateform](https://www.edx.org/)). You can check the MOOC for more information about mathematical programming and the implementation with excel.
 
