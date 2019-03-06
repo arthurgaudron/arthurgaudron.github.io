@@ -1,7 +1,4 @@
----
-title: Simple Distribution Problem
 
----
 
 
 # Problem
