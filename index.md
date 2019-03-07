@@ -69,7 +69,7 @@ title: Arthur Gaudron
 
 # Few notes about optimisation engine and visualization tools
 
-- [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/2018-06-13-simple_distribution_problem.md)
+- [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/simple_distribution_problem.md)
 - Test
 
 <!-- <a href=""></a> -->
