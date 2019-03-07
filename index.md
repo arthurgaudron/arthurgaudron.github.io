@@ -69,7 +69,7 @@ title: Arthur Gaudron
 
 # Few notes about optimisation engine and visualization tools
 
-- [Boulangeries in Paris (SIREN, Geographic Information System)](https://arthurgaudron.github.io/2018-04-01-boulangeries)
+- [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/2018-06-13-simple_distribution_problem.md)
 - Test
 
 <!-- <a href=""></a> -->
