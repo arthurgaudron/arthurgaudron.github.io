@@ -1,13 +1,4 @@
----
-layout: post
-title: Simple Distribution Problem - Tuple as a key
-tags:
-- Optimisation
-- Network flow
-- Gurobi
-excerpt_separator: <!--more-->
-
----
+# Simple Distribution Problem - Tuple as a key
 
 Another data structure can be used for the cost in the Simple Distribution Problem.
 
