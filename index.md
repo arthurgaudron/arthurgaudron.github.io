@@ -24,7 +24,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
 
 <dt>Interactive Simulation To Explore Urban Distribution Schemes.</dt>
-<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. 2018. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
 
 <dt>Statistic regression and open data approach for identifying economic indicators that influence e-commerce.</dt>
 <dd>A. Barme, S. Tamayo, A. Gaudron.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. <a href="https://hal.archives-ouvertes.fr/hal-01790991">Read publication</a></dd>
@@ -65,13 +65,13 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dd>Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". <a href="https://www.parisdescartes.fr/">Université Paris Descartes</a>, 8th February 2018, Paris, France.</dd>
 
 <dt>Le procès de l'intelligence artificielle et de la voiture autonome.</dt>
-<dd>La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, France.</dd>
+<dd>La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, Paris, France.</dd>
 
 <dt>Future trends and technologies for Urban Mobility and City Logistics.</dt>
 <dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a>, 17th May 2018, Paris, France.</dd>
 
 <dt>Bionumeric City</dt>
-<dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a>, 9th February 2017.</dd>
+<dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a> 9th February 2017, Paris, France.</dd>
 </dl>
 
 # Few notes about optimisation engine and visualization tools
