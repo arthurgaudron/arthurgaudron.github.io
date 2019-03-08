@@ -70,6 +70,7 @@ title: Arthur Gaudron
 # Few notes about optimisation engine and visualization tools
 
 - [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/simple_distribution_problem.md)
-- Test
+- [Tuples to optimize distribution problem](https://arthurgaudron.github.io/simple_distribution_problem_tuple.md)
+- [Transhipment problem]((https://arthurgaudron.github.io/transhipment_problem.md)
 
 <!-- <a href=""></a> -->
