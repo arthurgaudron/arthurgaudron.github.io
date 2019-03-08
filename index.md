@@ -65,13 +65,13 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dd>Cycle de conférences "Quelle régulation pour l'intelligence artificielle ?". <a href="https://www.parisdescartes.fr/">Université Paris Descartes</a>, 8th February 2018, Paris, France.</dd>
 
 <dt>Le procès de l'intelligence artificielle et de la voiture autonome.</dt>
-<dd>La Nuit du Droit, Court of Appeal of Paris, 5th October 2018, Paris, France.</dd>
+<dd> <a href="https://www.lanuitdudroit.fr/">La Nuit du Droit</a>, <a href="https://www.cours-appel.justice.fr/paris">Court of Appeal of Paris</a>, 5th October 2018, Paris, France.</dd>
 
 <dt>Future trends and technologies for Urban Mobility and City Logistics.</dt>
 <dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a>, 17th May 2018, Paris, France.</dd>
 
 <dt>Bionumeric City</dt>
-<dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a> 9th February 2017, Paris, France.</dd>
+<dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a>, 9th February 2017, Paris, France.</dd>
 </dl>
 
 # Few notes about optimisation engine and visualization tools
