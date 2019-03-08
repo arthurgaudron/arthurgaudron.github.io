@@ -1,15 +1,4 @@
----
-layout: post
-title: Transhipment Problem
-tags:
-- Optimisation
-- Network flow
-- Gurobi
-excerpt_separator: <!--more-->
-
----
-
-# Problem
+# Transhipment Problem
 
 This example is taken from the MOOC MITx: CTL.SC2x ([edX plateform](https://www.edx.org/)). You can check the MOOC for more information about mathematic programming and the implementation with excel.
 
