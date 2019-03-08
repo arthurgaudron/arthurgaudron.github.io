@@ -71,6 +71,6 @@ title: Arthur Gaudron
 
 - [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/simple_distribution_problem.md)
 - [Tuples to optimize distribution problem](https://arthurgaudron.github.io/simple_distribution_problem_tuple.md)
-- [Transhipment problem]((https://arthurgaudron.github.io/transhipment_problem.md)
+- [Transhipment problem](https://arthurgaudron.github.io/transhipment_problem.md)
 
 <!-- <a href=""></a> -->
