@@ -7,7 +7,7 @@ title: Arthur Gaudron
 
 My research is focused on the modelling and the simulation of complex systems. I am developping tools and methodology with one goal in mind: take the right decision. 
 
-My research is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelogistiqueurbaine.fr/).
+My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelogistiqueurbaine.fr/).
 
 # Teaching activities
 
