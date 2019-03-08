@@ -71,7 +71,7 @@ title: Arthur Gaudron
 
 - [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/simple_distribution_problem.md)
 - [Tuples to optimize distribution problem](https://arthurgaudron.github.io/simple_distribution_problem_tuple.md)
-- [Transhipment problem](https://arthurgaudron.github.io/transhipment_problem.md)
+- [Transhipment problem optimization](https://arthurgaudron.github.io/transhipment_problem.md)
 - [Visualization of street occupancy in Paris](https://arthurgaudron.github.io/2018-04-13-estimate-road-surface.html)
 - [Visualization of the boulangeries in Paris](https://arthurgaudron.github.io/2018-04-01-boulangeries.html)
 
