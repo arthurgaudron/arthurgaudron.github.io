@@ -76,7 +76,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dd>International Workshop at the <a href="http://www.cite-sciences.fr/fr/accueil/">Cité des Sciences et de l'Industrie</a>, 9th February 2017, Paris, France.</dd>
 </dl>
 
-# Few notes about optimisation engine and visualization tools
+# Few notes about optimization engine and visualization tools
 
 - [Optimize a simple distribution problem with Gurobi](https://arthurgaudron.github.io/simple_distribution_problem)
 - [Tuples to optimize distribution problem](https://arthurgaudron.github.io/simple_distribution_problem_tuple)
