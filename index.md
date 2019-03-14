@@ -56,7 +56,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dl>
   
 <dt>Finale PSL de l’édition 2019 de Ma Thèse en 180 secondes</dt>
-<dd><a href="https://www.psl.eu/">PSL University</a> , 7th March, Paris, France.</dd>
+<dd><a href="https://www.psl.eu/">PSL University</a> , 7th March, Paris, France. <a href="https://www.facebook.com/PSLuniv/videos/2254125644875904/">Watch the video @19:00 (French)</a></dd>
   
 <dt>The Future of Digital Intelligence – Ethics, Impact and Prudence.</dt>
 <dd>Confluence 2019 Edition V.   <a href="http://ifimbschool.com/">IFIM Business School</a>   and <a href="http://www.ifimlawcollege.com/">IFIM Law School</a>, 26th February 2019, Bangalore, India.</dd>
