@@ -1,6 +1,8 @@
 ---
 title: Arthur Gaudron
 ---
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
 
 
 # Research activities
@@ -21,7 +23,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 # Publications
 <dl>
 <dt>Trial of an AI: Empowering people to explore law and science challenges.</dt>
-<dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
+<dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595"><i class="fas fa-link"></i>Read publication</a> </dd>
 
 <dt>Interactive Simulation To Explore Urban Distribution Schemes.</dt>
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
