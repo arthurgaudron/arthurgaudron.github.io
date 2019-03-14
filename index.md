@@ -1,7 +1,6 @@
 ---
 title: Arthur Gaudron
 ---
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 
 
@@ -20,7 +19,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a> | ATHENS international program.</dd>
 </dl>
 
-# Publications <i class="fas fa-link"></i>
+# Publications :link:
 <dl>
 <dt>Trial of an AI: Empowering people to explore law and science challenges.</dt>
 <dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
