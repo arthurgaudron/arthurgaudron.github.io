@@ -45,6 +45,8 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. ATEC - Les rencontres de la mobilité intelligente 2018, Jan 2018, Paris, France <a href="https://hal.archives-ouvertes.fr/hal-01980261">Read publication</a></dd>
 <dt>Mobile multi-depot vehicle routing problem.</dt> 
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
+<dt>Simulating environmental impacts of urban deliveries in catering sector.</dt> 
+<dd>A. Gaudron, S. Jlassi, S. Tamayo, A. de La Fortelle. International Urban Freight Conference, Oct 2017, Long Beach, USA.</dd>
 <dt>Loading/Unloading Spaces Location And Evaluation.</dt> 
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. EURO Winter Institute on “Methods and Models in Transportation Problems”, 14-23 Feb 2017, Bressanone, Italy.</dd>
 </dl>
