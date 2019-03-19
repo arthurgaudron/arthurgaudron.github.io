@@ -16,7 +16,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dt>Optimization and Decision Support</dt>
 <dd> <a href="http://www.essec.edu/fr/">ESSEC</a>  | 25-hours class in Pre-Master of Business Administration.</dd>
 <dt>Modelling and simulation for City Logistics</dt>
-<dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a> | ATHENS international program. <a href="https://goo.gl/forms/jSA89ceB7Ey3r1Di2">=>Surveys</a></dd>
+<dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a> | ATHENS international program. <a href="https://goo.gl/forms/jSA89ceB7Ey3r1Di2">=>Surveys</a>, <a href=" https://github.com/arthurgaudron/arthurgaudron.github.io/blob/master/workshop%20interactive%20simulation.pdf">Slides</a> </dd>
 </dl>
 
 # Publications 
