@@ -6,7 +6,7 @@ title: Arthur Gaudron
 
 # Research activities
 
-My research is focused on the modelling and the simulation of complex systems. I am developping tools and methodology with one goal in mind: take together the decision. 
+My research is focused on the modelling and the simulation of complex systems. I am developping tools along a methodology with one goal in mind: take together the decision. 
 
 My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelogistiqueurbaine.fr/).
 
@@ -16,7 +16,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dt>Optimization and Decision Support</dt>
 <dd> <a href="http://www.essec.edu/fr/">ESSEC</a>  | 25-hours class in Pre-Master of Business Administration.</dd>
 <dt>Modelling and simulation for City Logistics</dt>
-<dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a> | ATHENS international program.</dd>
+<dd><a href="http://www.mines-paristech.fr/">MINES ParisTech</a> | ATHENS international program. <a href="https://goo.gl/forms/jSA89ceB7Ey3r1Di2">=>Surveys</a></dd>
 </dl>
 
 # Publications 
