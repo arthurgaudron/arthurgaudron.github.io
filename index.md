@@ -57,7 +57,7 @@ My work is funded by the [Urban Logistics Chair MINES ParisTech](http://chairelo
 <dl>
 
 <dt>"IA et Responsabilités" Séminaire à destination des Instances Représentatives du Personnel</dt>
-<dd><a href="http://www.secafi.com/">SECAFI</a>, 22nd March, Paris, France.</dd>
+<dd><a href="http://www.secafi.com/">SECAFI</a>, 22nd March, Toulouse, France.</dd>
   
 <dt>Finale PSL de l’édition 2019 de Ma Thèse en 180 secondes</dt>
 <dd><a href="https://www.psl.eu/">PSL University</a> , 7th March, Paris, France. <a href="https://www.facebook.com/PSLuniv/videos/2254125644875904/">Watch the video @19:00 (French)</a></dd>
