@@ -4,13 +4,13 @@ title: Arthur Gaudron
 
 # City Logistics Workshop
 
-<a href="https://goo.gl/forms/jSA89ceB7Ey3r1Di2">=>Surveys</a>
+<a href="https://goo.gl/forms/jSA89ceB7Ey3r1Di2">=> Surveys</a>
 
 
-<a href="https://github.com/arthurgaudron/arthurgaudron.github.io/blob/master/workshop%20interactive%20simulation.pdf">Slides</a>
+<a href="https://github.com/arthurgaudron/arthurgaudron.github.io/blob/master/workshop%20interactive%20simulation.pdf">=> Slides</a>
 
 
-<a href="https://mybinder.org/v2/gh/arthurgaudron/workshop_city_logistics/master">Binder</a>
+<a href="https://mybinder.org/v2/gh/arthurgaudron/workshop_city_logistics/master">=> Binder</a>
 
 # Research activities
 
