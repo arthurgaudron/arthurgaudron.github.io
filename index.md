@@ -7,7 +7,7 @@ title: Arthur Gaudron
 <a href="https://goo.gl/forms/jSA89ceB7Ey3r1Di2">=> Surveys</a>
 
 
-<a href="https://cloud.mines-paristech.fr/index.php/f/27719680">=> Slides</a>
+<a href="https://cloud.mines-paristech.fr/index.php/s/aUa0t1EsSwVJ5Ss">=> Slides</a>
 
 
 <a href="https://mybinder.org/v2/gh/arthurgaudron/workshop_city_logistics/master">=> Binder</a>
