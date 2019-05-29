@@ -17,21 +17,23 @@ Following Sankey diagram represents the solution to this problem.
 ## Input data
 
 
+<html>
+<head>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
 </script>
+</head>
+<body>
+</body>
+</html>
 
 
-	
 $$S_{i} : \text{production of tomatoes from each Farm i (in tons)}$$
 $$D_{j} : \text{demand from each City j (in tons)}$$
 $$c_{i,j} : \text{transportation cost between Farm i and City j (€/ton)}$$
-
-
-
 
 
 ## Decision variables
