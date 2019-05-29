@@ -16,9 +16,28 @@ Following Sankey diagram represents the solution to this problem.
 
 ## Input data
 
+<html>
+<head>
+<title>MathJax TeX Test Page</title>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+</head>
+<body>
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+	
 $$S_{i} : \text{production of tomatoes from each Farm i (in tons)}$$
 $$D_{j} : \text{demand from each City j (in tons)}$$
 $$c_{i,j} : \text{transportation cost between Farm i and City j (€/ton)}$$
+
+</body>
+</html>
+
+
 
 ## Decision variables
 $$x_{i,j} : \text{flow on arc between Farm i to City j}$$
