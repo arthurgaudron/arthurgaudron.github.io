@@ -25,22 +25,26 @@ My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelo
 
 # Publications 
 <dl>
-<dt>Trial of an AI: Empowering people to explore law and science challenges.</dt>
+  
+<dt>Interactive simulation for collective decision making in city logistics</dt>
+<dd>S. Tamayo, A. Gaudron, A. de La Fortelle. 11th International Conference on City Logistics, Jun 2019, Dubrovnik, Croatia. </dd>
+  
+<dt>Trial of an AI: Empowering people to explore law and science challenges</dt>
 <dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
 
-<dt>Interactive Simulation To Explore Urban Distribution Schemes.</dt>
+<dt>Interactive Simulation To Explore Urban Distribution Schemes</dt>
 <dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 21st EURO Working Group on Transportation Meeting, Sep 2018, Braunschweig, Germany. <a href="https://doi.org/10.1016/j.trpro.2018.12.168">Read publication</a></dd>
 
-<dt>Statistic regression and open data approach for identifying economic indicators that influence e-commerce.</dt>
+<dt>Statistic regression and open data approach for identifying economic indicators that influence e-commerce</dt>
 <dd>A. Barme, S. Tamayo, A. Gaudron.  20th International Conference on Urban Transportation and City Logistics, May 2018, London, United Kingdom. <a href="https://hal.archives-ouvertes.fr/hal-01790991">Read publication</a></dd>
 
-<dt>Simulating impacts of regulatory policies on urban freight: application to the catering setting.</dt>
+<dt>Simulating impacts of regulatory policies on urban freight: application to the catering setting</dt>
 <dd>S. Jlassi, S. Tamayo, A. Gaudron, A. de La Fortelle.  IEEE. 6th International Conference on Advanced Logistics and Transport, Jul 2017, Bali, Indonesia. <a href="https://doi.org/10.1109/ICAdLT.2017.8547005">Read publication</a></dd>
 
-<dt>Simulation Applied to Urban Logistics: A State Of The Art.</dt>
+<dt>Simulation Applied to Urban Logistics: A State Of The Art</dt>
 <dd>S. Jlassi, S. Tamayo, A. Gaudron.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541556/">Read publication</a>.</dd>
 
-<dt>Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data.</dt>
+<dt>Loading/Unloading Spaces Location And Evaluation: An Approach Through Real Data</dt>
 <dd>S. Tamayo, A. Gaudron, A. de La Fortelle.  Wiley-ISTE. 10th International Conference on City Logistics, Jun 2017, Phuket, Thailand. <a href="https://hal.archives-ouvertes.fr/hal-01541501/">Read publication</a></dd>
 </dl>
 
