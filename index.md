@@ -14,6 +14,8 @@ My research is focused on the modelling and the simulation of complex systems. I
 
 My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelogistiqueurbaine.fr/).
 
+<a href="https://github.com/arthurgaudron/workshop_city_logistics">Atelier Logistique Urbaine</a>
+
 # Teaching activities
 
 <dl>
