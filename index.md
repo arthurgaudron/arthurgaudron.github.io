@@ -14,6 +14,7 @@ My research is focused on the modelling and the simulation of complex systems. I
 My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelogistiqueurbaine.fr/).
 
 # Selected publications
+All my publications are listed in my CV.
 
 <dl>
 <dt>Interactive simulation for collective decision making in city logistics</dt>
@@ -21,6 +22,7 @@ My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelo
   
 <dt>Le procès de l'intelligence artificielle et de la voiture autonome.</dt>
 <dd> <a href="https://www.lanuitdudroit.fr/">La Nuit du Droit</a>, <a href="https://www.cours-appel.justice.fr/paris">Court of Appeal of Paris</a>, 5th October 2018, Paris, France. <a href="https://www.facebook.com/dalloz.editions/videos/256962881513417/">Watch the video (French)</a></dd> 
+
 
 # Curriculum Vitae
 My Curriculum Vitae is available as a [web page :computer:](https://arthurgaudron.github.io/cv/cv.html) or a [pdf :page_with_curl:](https://arthurgaudron.github.io/cv/Arthur_Gaudron_CV.pdf)
