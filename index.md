@@ -8,6 +8,8 @@ title: Arthur Gaudron
 <a href="https://cloud.mines-paristech.fr/index.php/s/aUa0t1EsSwVJ5Ss">=> Slides</a>
 <a href="https://mybinder.org/v2/gh/arthurgaudron/workshop_city_logistics/master">=> Binder</a>--->
 
+View my Curriculum Vitae on a [web page :computer:](https://arthurgaudron.github.io/cv/cv.html) or in a [pdf :page_with_curl:](https://arthurgaudron.github.io/cv/cv.pdf)
+
 # Research activities
 
 My research is focused on the modelling and the simulation of complex systems. I am developping tools along a methodology with one goal in mind: take together the decision. 
