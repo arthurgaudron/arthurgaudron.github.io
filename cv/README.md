@@ -1,5 +1,5 @@
 ### How to generate pdf from html
-wkhtmltopdf cv.html cv.pdf
+```wkhtmltopdf cv.html cv.pdf```
 
 ### Author
 
