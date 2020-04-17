@@ -31,7 +31,7 @@ All my publications are listed in my CV.
 </dl>
 
 
-
+<!---
 
 # Research activities
 
@@ -125,4 +125,4 @@ My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelo
 - [Visualization of street occupancy in Paris](https://arthurgaudron.github.io/2018-04-13-estimate-road-surface.html)
 - [Visualization of the boulangeries in Paris](https://arthurgaudron.github.io/2018-04-01-boulangeries.html)
 
-<!-- <a href=""></a> -->
+--->
