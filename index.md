@@ -18,7 +18,7 @@ All my publications are listed in my CV.
 
 <dl>
 <dt>Interactive simulation for collective decision making in city logistics</dt>
-<dd>S. Tamayo, A. Gaudron, A. de La Fortelle. 11th International Conference on City Logistics, Jun 2019, Dubrovnik, Croatia. </dd>
+<dd>A. Gaudron, S. Tamayo, A. de La Fortelle. 11th International Conference on City Logistics, Jun 2019, Dubrovnik, Croatia. </dd>
   
 <dt>Le procès de l'intelligence artificielle et de la voiture autonome.</dt>
 <dd> <a href="https://www.lanuitdudroit.fr/">La Nuit du Droit</a>, <a href="https://www.cours-appel.justice.fr/paris">Court of Appeal of Paris</a>, 5th October 2018, Paris, France. <a href="https://www.facebook.com/dalloz.editions/videos/256962881513417/">Watch the video (French)</a></dd> 
@@ -49,7 +49,7 @@ My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelo
 <dl>
   
 <dt>Interactive simulation for collective decision making in city logistics</dt>
-<dd>S. Tamayo, A. Gaudron, A. de La Fortelle. 11th International Conference on City Logistics, Jun 2019, Dubrovnik, Croatia. </dd>
+<dd>A. Gaudron, S. Tamayo,  A. de La Fortelle. 11th International Conference on City Logistics, Jun 2019, Dubrovnik, Croatia. </dd>
   
 <dt>Trial of an AI: Empowering people to explore law and science challenges</dt>
 <dd> A. Gaudron. IFIM’s International Journal on Law & Regulation of Artificial Intelligence & Robotics, Feb 2019. <a href="https://hal.archives-ouvertes.fr/hal-02055595">Read publication</a> </dd>
