@@ -25,7 +25,7 @@ All my publications are listed in my CV.
 
 
 # Curriculum Vitae
-My Curriculum Vitae is available as a [web page](https://arthurgaudron.github.io/cv/cv.html):computer: or a [pdf ](https://arthurgaudron.github.io/cv/Arthur_Gaudron_CV.pdf):page_with_curl:.
+My Curriculum Vitae is available as a [web page](https://arthurgaudron.github.io/cv/cv.html) :computer: or a [pdf ](https://arthurgaudron.github.io/cv/Arthur_Gaudron_CV.pdf):page_with_curl:.
 
 
 # Research activities
