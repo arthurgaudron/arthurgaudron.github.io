@@ -171,10 +171,10 @@ Loading/Unloading Spaces Location And Evaluation
 - __EURO Winter Institute on “Methods and Models in Transportation Problems”__, 14-23 Feb 2017, Bressanone, Italy
 
 ## Teaching activities
-`2020 – now`
+<!--`2020 – now`
 __MINES ParisTech__
 
-- Option Système de production et logistique — …
+- Option Système de production et logistique — …-->
 
 `2020 - now`
 __MINES ParisTech__
