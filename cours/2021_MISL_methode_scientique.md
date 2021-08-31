@@ -1,5 +1,5 @@
 ---
-Title: text
+title: text
 ---
 
 
