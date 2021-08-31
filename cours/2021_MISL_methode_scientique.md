@@ -1,3 +1,8 @@
+---
+Title: text
+---
+
+
 # Méthode scientifique
 
 Dans le cadre du Mastère Spécialisé « Management Industriel et Systèmes Logistiques », les étudiants sont amenés à rédiger en binôme un article scientifique dans le domaine des systèmes industriels et logistiques. 
