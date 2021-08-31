@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Arthur Gaudron
-description: Research Engineer at Center for Robotics, MINES ParisTech, PSL University
-google_analytics: UA-135534253-1
+description: Associate Professor at Center for Robotics, MINES ParisTech, PSL University
 plugins:
   - jemoji
