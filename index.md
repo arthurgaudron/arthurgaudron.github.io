@@ -7,13 +7,13 @@ Data science | Operational Research | Supply Chain Management | Industrial Engin
 
 ## Short vita
 
-- Chair Holder of Chaire Logistique Urbaine (2021 - now)
-- Director of Mastère Spécialisé Management Industriel et Systèmes Logistiques (2020 - now)
-- Associate Professor at Center for Robotics, MINES ParisTech, PSL University (2020 — now)
+- Director of the Mastère Spécialisé Management Industriel et Systèmes Logistiques (2020 — now)
+- Chair Holder of the Chaire Logistique Urbaine (2021 — now)
+- Associate Professor at the Center for Robotics, MINES ParisTech, PSL University (2020 — now)
 - PhD, MINES ParisTech, PSL University (2017 — 2020)
 - R&D Project Manager, MINES ParisTech, PSL University (2014 — 2020)
 
-My Curriculum Vitae is available as a [pdf](https://arthurgaudron.github.io/cv/Arthur_Gaudron_CV.pdf):page_with_curl:.
+My Curriculum Vitae is available as a [pdf](cv/Arthur_Gaudron_CV_eng_full.pdf):page_with_curl:.
 
 ## Short biography in English
 
