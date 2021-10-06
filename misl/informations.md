@@ -22,7 +22,7 @@ En amont de votre intervention, vous receverez une invitation directement à l'a
 Les cours à distance sont exceptionnels et soumis à autorisation.
 
 Pour rejoindre un cours sur zoom :
-1. Accédez au calendrier  https://webmail.mines-par...n@mines-paristech.fr/MISL.html
+1. Accédez au calendrier  [ici](https://webmail.mines-paristech.fr/home/arthur.gaudron@mines-paristech.fr/MISL.html) :link:
 2. Repérez la salle de cours renseignée dans « Emplacement » (en général nous sommes en L228)
 3. Rendez-vous sur [https://salles-zoom.mines-paristech.fr/](https://salles-zoom.mines-paristech.fr/) pour trouver votre salle et lancer Zoom.
 
