@@ -1,5 +1,0 @@
-#!/bin/bash
-
-jekyll b -d ~/arthurgaudron.github.io/cv
-
-wkhtmltopdf _site/cv.html  ~/arthurgaudron.github.io/cv/Arthur_Gaudron_CV.pdf
