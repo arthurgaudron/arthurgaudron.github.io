@@ -2,7 +2,7 @@
 title: Arthur Gaudron
 ---
 
-# Research interest
+## Research interest
 Data science | Operational Research | Supply Chain Management | Industrial Engineering | Urban Logistics
 
 ## Short vita
@@ -13,7 +13,11 @@ Data science | Operational Research | Supply Chain Management | Industrial Engin
 - PhD, MINES ParisTech, PSL University (2017 — 2020)
 - R&D Project Manager, MINES ParisTech, PSL University (2014 — 2020)
 
-My Curriculum Vitae is available as a [pdf](cv/Arthur_Gaudron_CV_eng_full.pdf):page_with_curl:.
+My Curriculum Vitae is available as a [pdf ](cv/Arthur_Gaudron_CV_eng_full.pdf):page_with_curl:.
+
+More information about [MINES ParisTech Chaire Logistique Urbaine Logistics Chair](http://chairelogistiqueurbaine.fr/).
+
+More information about [Mastère Spécialisé Management Industriel et Systèmes Logistiques](https://www.misl.minesparis.psl.eu/).
 
 ## Short biography in English
 
@@ -24,9 +28,9 @@ Arthur Gaudron is an Associate Professor in the Center for Robotics at MINES Par
 Arthur Gaudron est Enseignant-Chercheur (Maître-Assistant) au sein du Centre de Robotique à MINES ParisTech Université PSL. Il développe un programme de recherche autour de la science des données dans le contexte de l'ingénierie industrielle. Son travail se concentre sur la relation entre la conception et l'utilisation d'un système d'aide à la décision. Il applique notamment ses travaux 
 au sein de la Chaire Logistique Urbaine (La Poste, Pomona, Renault, ADEME et la Ville de Paris) qu'il dirige, où il existe des interactions explicites et surtout implicites avec d'autres systèmes. Il dirige le Mastère Spécialisé Management Industriel et Systèmes Logistiques à MINES ParisTech. Il participe à l'option Systèmes Production et Logistique pour les élèves-ingénieurs de MINES ParisTech.
 
-My work is funded by the [MINES ParisTech Urban Logistics Chair](http://chairelogistiqueurbaine.fr/).
 
-# Selected publications
+
+## Selected publications
 All my publications are listed in my CV.
 
 <dl>
