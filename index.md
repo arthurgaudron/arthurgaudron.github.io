@@ -7,7 +7,7 @@ Data science | Operational Research | Supply Chain Management | Industrial Engin
 
 ## Short vita
 
-- Director of the Mastère Spécialisé Management Industriel et Systèmes Logistiques (2020 — now)
+- Director of the Mastère Spécialisé Management Industriel et Systèmes Logistiques (2021 — now)
 - Chair Holder of the Chaire Logistique Urbaine (2021 — now)
 - Associate Professor at the Center for Robotics, MINES ParisTech, PSL University (2020 — now)
 - PhD, MINES ParisTech, PSL University (2017 — 2020)
