@@ -1,6 +1,6 @@
 ---
 title: Informations sur les outils numériques
-subtitle: Mastère Spécialisé MISL
+description: Mastère Spécialisé MISL
 ---
 
 Ce document est à destination des étudiants et des intervenants du MS MISL.
