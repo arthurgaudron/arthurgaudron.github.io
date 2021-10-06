@@ -1,6 +1,6 @@
 ---
 title: Informations sur les outils numériques
-tagline: Mastère Spécialisé MISL
+tagline: Mastère Spécialisé Management Industriel et Systèmes Logistiques
 ---
 
 Ce document est à destination des étudiants et des intervenants du MS MISL.
