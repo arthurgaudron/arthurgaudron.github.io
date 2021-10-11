@@ -1,6 +1,5 @@
 ---
 title: Informations sur les outils numériques
-tagline: Mastère Spécialisé Management Industriel et Systèmes Logistiques
 description: Mastère Spécialisé Management Industriel et Systèmes Logistiques
 ---
 
@@ -37,6 +36,7 @@ Pour rejoindre un cours sur zoom :
 - Un port USB est disponible sur la tranche gauche de l'écran.
 - Le mode d'emploi du matériel est affiché dans la salle et il est disponible [ici](media/Tuto_hybride_Paris-V2.pdf).
 - Le numéro de l'assistance (service audiovisuel) est 01 40 51 91 37.
+- Il est parfois préférable d'utiliser votre propre ordinateur en rejoignant la réunion zoom directement. 
 
 
 # Webmail
