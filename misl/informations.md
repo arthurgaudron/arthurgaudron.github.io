@@ -32,7 +32,7 @@ Pour rejoindre un cours sur zoom :
 
 **Pour les intervenants**
 - Le code du cadenas est 9137 ou 137.
-- L'identifiant et le mot de passe sont inscrits sur la base de l'écran. Le backslash se fait avec AltGr+8.
+- L'identifiant et le mot de passe sont inscrits sur la base de l'écran. Il y a un "." et un backslash (AltGr+8).
 - Un port USB est disponible sur la tranche gauche de l'écran.
 - Le mode d'emploi du matériel est affiché dans la salle et il est disponible [ici](media/Tuto_hybride_Paris-V2.pdf).
 - Le numéro de l'assistance (service audiovisuel) est 01 40 51 91 37.
