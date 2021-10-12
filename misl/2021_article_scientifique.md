@@ -15,22 +15,13 @@ Ce document formalise les consignes et les conseils pour la rédaction d'un arti
 
 L'article scientifique vise à apporter des connaissances nouvelles relatives à une **question de recherche** (i.e. une tension non résolue — est-ce que la supply chain peut-elle être durable?). L'article s'appuie sur des travaux scientifiques antérieurs, et une démarche propre au travers d'une analyse de ces travaux, et d'un travail de terrain pour collecter des données pertinentes à la question de recherche choisie. La valeur d'un article se mesure **aux contributions** de la publication, c'est-à-dire, les connaissances nouvelles apportées par l'article à la littérature scientifique disponible à ce jour.
 
-```
-Objectif : montrer que la question de recherche est pertinente : il n'y a pas de solutions évidentes proposées par la litérature 
-Pourquoi un lecteur devrait s'intéresser à cette question ?
-```
+La question de recherche sera le fil directeur de votre travail et de votre rédaction. Il faudra y revenir sans cesse.
 
 L’article scientifique s’appuie sur une revue de littérature pour faire état des connaissances actuelles relatives à la question de recherche et s’assurer que cette dernière est bien originale. Cette étape nécessite des qualités de **synthèse**. Il s’agit de sélectionner les articles pertinents et de les présenter dans une forme structurée (i.e. pas de liste « à la Prévert »). Il est recommandé de vous rapprocher d’experts du domaine (chercheurs et industriels). Préparez sérieusement vos entretiens, ils sauront vous faire gagner du temps dans votre recherche documentaire et la validation de votre question de recherche.
 
-```
-Objectif : montrer que les auteurs de la publication maîtrisent le sujet autour de la question de recherche.
-```
+L’article scientifique développe une **méthodologie** formant un cadre d'**analyse**. Le choix de la méthodologie et de la question de recherche viennent limiter le périmètre de votre travail. Ce périmètre doit être clairement exprimé afin de permettre au lecteur de contextualiser vos contributions.
 
-L’article scientifique développe une méthodologie formant un cadre d'**analyse**, par la compréhension de la problématique limitée par la question de recherche, l’article questionne les solutions proposées par la littérature. Il ne s’agit pas juger les idées des autres, mais de comprendre ce qui marche et ce qui ne marche pas, et surtout dans quel contexte. L’article propose généralement des solutions adaptées à la problématique. L'article doit clairement exposer son raisonnement, l’intérêt, et les limites de sa solution.
-
-```
-Objectif : relier les connaissances de la littérature avec les données du terrain pour donner un nouvel éclairage rigoureux nécessaire à la compréhension/résolution de la question de recherche.
-```
+L’article va vraisemblablement questionner des solutions ou des idées proposées par la littérature. Il ne s’agit pas juger les idées des autres, mais de comprendre ce qui marche et ce qui ne marche pas, et surtout dans quel contexte (p. ex. est-ce qu'une idée de la littérature est adapatée à notre question de recherche ?).
 
 La **qualité rédactionnelle** de l'article est primordiale : le but d’un article scientifique est la diffusion de la connaissance. 
 - L’article doit faire envie au lecteur (« Ah c’est vrai que cette question est intéressante, je ne l’avais jamais considéré sous cet angle ! »).
@@ -42,7 +33,7 @@ La **qualité rédactionnelle** de l'article est primordiale : le but d’un art
 
 L’article scientifique sera jugé selon le barême suivant :
 - L’intérêt de la question de recherche 10%
-- La capacité de synthèse des données collectées 30%
+- La capacité de synthèse des données collectées et la collecte des données 30%
 - La pertinence de l’analyse et du cadre d'analyse 30%
 - La qualité rédactionnelle 30%
 
@@ -53,6 +44,7 @@ Malus (max -2 points sur la note finale) : non respect des consignes écrites ou
 # Quelques conseils 
 À relire avant chaque jalon et en cas de blocage :
 - Il faut lire, lire, et lire. Vous n'aurez jamais assez lu sur un sujet.
+- Renseignez-vous sur les conférences en ligne.
 - Le travail de recherche n’est pas une suite linéaire d’étapes : il n’est pas rare de devoir reformuler sa question de recherche alors que le travail semble déjà bien avancé.
 - Recommencer à partir d'une page blanche peut vous faire gagner du temps.
 - Pour limiter au maximum la gestion fastidieuse des références (et vous concentrer sur la production scientifique), prenez soin de bien vous familiariser avec l’outil Zotero et de vous référer au cours « Techniques Bibliographiques ». Ne négligez pas ce point.
@@ -62,9 +54,11 @@ Malus (max -2 points sur la note finale) : non respect des consignes écrites ou
 - Nombre de références bibliographiques : vous devez inclure au moins 25 références bibliographiques dans votre analyse ; sachant que les résultats de recherche initiaux (qui seront épurés par la suite) donneront des résultats de l’ordre de 200 ou 300 références. Il est important de noter que les références de type « actualités », « wikipedia », « sites web », etc., doivent être utilisées avec parcimonie et réflexion.
 - Dès l'instant où vous reprenez une phrase ou une idée d'un document, vous devez citer le document. Si vous ne le faite pas, ce sera pas considéré comme du **plagiat**. Votre document sera automatiquement analysé pour s'assurer du respect de cette consigne.
 
+
+
 # Livrables 
 
-L’article pourra être rédigé en français ou anglais et la longueur de l’article devra être de l'ordre de 7 000 mots. Vous devez utiliser ce [modèle de document](https://drive.google.com/drive/folders/0B00-HSF1FNbLTlNCV1FrR0RlTlE?resourcekey=0-liJvgsq7RTG5BGDZdENk7w).
+L’article pourra être rédigé en français ou anglais et la longueur de l’article devra être de l'ordre de 7 000 mots. Vous devez utiliser ce [modèle de document (à venir)]().
 
 Pour vous accompagner 
 Les premiers trois jalons donnent lieu à une revue intermédiaire pour vous guider tout au long de votre travail de recherche et de rédaction.
@@ -74,15 +68,15 @@ Dans le cas où votre article est proche de remplir toutes les exigences académ
 
 Les horaires des revues seront disponibles sur l’agenda électronique.
 
-## Premier jalon — Vendredi 26 novembre avant 23h59
+## Premier jalon — Jeudi 5 novembre avant 23h59
 
 ### Plan du premier livrable intermédiaire
 1. Titre provisoire
-2. Présentation de la problématique (une demi page)
-3. Présentation de la méthodologie et de l'étude de cas (ou plusieurs études)
-3.	Liste des références (articles scientifiques et livres)
-4.	Liste des revues et conférences
-5.	Liste des experts potentiels
+2. Présentation de la question de recherche (une demi page) : pourquoi c'est intéressant ? en quoi la littérature ne répond pas déjà cette question ?
+3. Présentation de la méthodologie et de l'étude de cas (ou plusieurs études) : quelles sources vais-je utiliser ? quels domaine d'activité ou entreprises vais-je cibler?
+	- Liste des références (articles scientifiques et livres)
+	- Liste des revues et conférences
+	- Liste des experts potentiels
 
 Pour ce jalon vous devez faire une sélection des **références** associés à votre problématique. 
 - Si votre sujet le permet, trouvez des **livres** (*text books*, *hand books*) qui vous permettront d'avoir une vision globale du sujet.
@@ -95,30 +89,29 @@ Sur la base de vos lectures, vous pourrez affiner votre problématique. Et à ce
 
 Pour l’introduction, à ce stade, vous devriez avoir une ou plusieurs questions de recherche. Pour chacune de ces questions, vous rédigerez un texte pour synthétiser les apports des différents articles et surtout ce qu’il manque. Au cours de ce travail, vous devrez probablement reformuler les questions de recherche, en supprimer ou en combiner.
 
-## Deuxième jalon — Vendredi 7 janvier avant 23h59
+## Deuxième jalon — Jeudi 26 novembre avant 23h59
 
 ### Plan du second livrable intermédiaire
-1. Résumé (à écrire en dernier)
-2. Introduction : présenter la question de recherche choisie et l’état de l’art
-3. Méthodologie :
-4. Résultats :
-5. Discussion :
-6. Références
-7. Annexes 
-	- Synthèse des entretiens avec les experts
+1. Introduction : présenter la question de recherche choisie et l’état de l’art
+2. Méthodologie : présentation de la démarche 
+3. Résultats : présentation des données 
+4. Discussion : analyse
+5. Références
+6. Annexes 
+	- Compte rendu des entretiens avec les experts
 	- Liste des revues et conférences
 	- Liste des experts potentiels
 
 Pour ce jalon vous devez rendre une version du résumé et de l’introduction avec les modifications demandées. Vous devez affiner et développer les idées principales que vous souhaitez traiter dans votre cadre d’analyse et les conclusions pressenties. Ces idées doivent être présentées sous forme d’hypothèses de recherche. Vous devez fournir également une première version de de l’analyse (2 à 3 pages) et une discussion des résultats (2 à 3 pages).
 
-## Troisième jalon - Jeudi 3 février avant 23h59
+## Troisième jalon - Mardi 15 décembre avant 23h59
 
 ### Plan du troisième livrable intermédiaire
 - Résumé (à écrire en dernier)
-- Introduction : présenter la question de recherche choisie et l’état de l’art
-- Méthodologie :
-- Résultats :
-- Discussion :
+- Introduction
+- Méthodologie
+- Résultats
+- Discussion
 - Références
 - Annexes 
 	- Synthèse des entretiens avec les experts
@@ -132,6 +125,20 @@ Pour ce jalon vous devrez
 •	Présenter l’idée générale de votre article (un paragraphe)
 •	Apporter une première version de l’introduction.
 •	Rencontrer des interlocuteurs
+
+## Quatrième jalon - Mercredi 2 février avant 23h59
+
+### Plan du troisième livrable intermédiaire
+- Résumé (à écrire en dernier)
+- Introduction
+- Méthodologie
+- Résultats
+- Discussion
+- Références
+- Annexes 
+	- Synthèse des entretiens avec les experts
+	- Liste des revues et conférences
+	- Liste des experts potentiels
 
 ## Jalon finale - Lundi 28 février avant 23h59
 ### Plan du livrable final
