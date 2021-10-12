@@ -138,7 +138,7 @@ Pour ce jalon vous devrez
 
 À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/uQg4H29E8wp9vzB)
 
-### Plan du troisième livrable intermédiaire
+### Plan du quatrième livrable intermédiaire
 - Résumé (à écrire en dernier)
 - Introduction
 - Méthodologie
