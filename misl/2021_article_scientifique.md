@@ -13,9 +13,7 @@ Ce document formalise les consignes et les conseils pour la rédaction d'un arti
 
 # Qu'est-ce qu'un article scientifique ?
 
-Un article scientifique présente des résultats issus d'un travail de recherche.
-
-L'article scientifique vise à apporter des connaissances nouvelles relatives à une **question de recherche** (i.e. une tension non résolue — est-ce que la supply chain peut-elle être durable?). L'article s'appuie sur des travaux scientifiques antérieurs, et une démarche propre au travers d'une analyse de ces travaux, et d'un travail de terrain pour collecter la donnée pertinente à la question de recherche. La valeur d'un article se mesure **aux contributions** de la publication, c'est-à-dire, les connaissances nouvelles apportées par l'article à la littérature scientifique disponible à ce jour.
+L'article scientifique vise à apporter des connaissances nouvelles relatives à une **question de recherche** (i.e. une tension non résolue — est-ce que la supply chain peut-elle être durable?). L'article s'appuie sur des travaux scientifiques antérieurs, et une démarche propre au travers d'une analyse de ces travaux, et d'un travail de terrain pour collecter des données pertinentes à la question de recherche choisie. La valeur d'un article se mesure **aux contributions** de la publication, c'est-à-dire, les connaissances nouvelles apportées par l'article à la littérature scientifique disponible à ce jour.
 
 ```
 Objectif : montrer que la question de recherche est pertinente : il n'y a pas de solutions évidentes proposées par la litérature 
