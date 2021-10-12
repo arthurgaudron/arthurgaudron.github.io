@@ -60,15 +60,15 @@ Malus (max -2 points sur la note finale) : non respect des consignes écrites ou
 
 L’article pourra être rédigé en français ou anglais et la longueur de l’article devra être de l'ordre de 7 000 mots. Vous devez utiliser ce [modèle de document (à venir)]().
 
-Pour vous accompagner 
-Les premiers trois jalons donnent lieu à une revue intermédiaire pour vous guider tout au long de votre travail de recherche et de rédaction.
-
+Pour vous accompagner, des revues intermédiaires pour vous guider tout au long de votre travail de recherche et de rédaction.
 
 Dans le cas où votre article est proche de remplir toutes les exigences académiques nécessaires, nous pouvons considérer sa publication à une conférence ou une revue. La publication demande un travail supplémentaire dans lequel vous serez largement accompagné.
 
 Les horaires des revues seront disponibles sur l’agenda électronique.
 
 ## Premier jalon — Jeudi 5 novembre avant 23h59
+
+À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/ydSTAWHWoRl9dqv).
 
 ### Plan du premier livrable intermédiaire
 1. Titre provisoire
@@ -91,6 +91,8 @@ Pour l’introduction, à ce stade, vous devriez avoir une ou plusieurs question
 
 ## Deuxième jalon — Jeudi 26 novembre avant 23h59
 
+À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/EZel3w72QZ3udbZ).
+
 ### Plan du second livrable intermédiaire
 1. Introduction : présenter la question de recherche choisie et l’état de l’art
 2. Méthodologie : présentation de la démarche 
@@ -101,10 +103,13 @@ Pour l’introduction, à ce stade, vous devriez avoir une ou plusieurs question
 	- Compte rendu des entretiens avec les experts
 	- Liste des revues et conférences
 	- Liste des experts potentiels
+	- Compte rendu du jalon précédent
 
 Pour ce jalon vous devez rendre une version du résumé et de l’introduction avec les modifications demandées. Vous devez affiner et développer les idées principales que vous souhaitez traiter dans votre cadre d’analyse et les conclusions pressenties. Ces idées doivent être présentées sous forme d’hypothèses de recherche. Vous devez fournir également une première version de de l’analyse (2 à 3 pages) et une discussion des résultats (2 à 3 pages).
 
 ## Troisième jalon - Mardi 15 décembre avant 23h59
+
+À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/0H8UEoGCYnEsOsU).
 
 ### Plan du troisième livrable intermédiaire
 - Résumé (à écrire en dernier)
@@ -117,6 +122,8 @@ Pour ce jalon vous devez rendre une version du résumé et de l’introduction a
 	- Synthèse des entretiens avec les experts
 	- Liste des revues et conférences
 	- Liste des experts potentiels
+	- Compte rendu des jalons précédents
+
 
 Pour ce jalon vous devez rendre une première version complète de votre article. 
 À ce stade votre article doit être accompagné des tableaux et/ou des figures afin d’assurer son caractère pédagogique. Vous devez faire un focus important sur les apports de l’article ainsi que ses limites et perspectives.
@@ -128,6 +135,8 @@ Pour ce jalon vous devrez
 
 ## Quatrième jalon - Mercredi 2 février avant 23h59
 
+À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/uQg4H29E8wp9vzB)
+
 ### Plan du troisième livrable intermédiaire
 - Résumé (à écrire en dernier)
 - Introduction
@@ -139,8 +148,12 @@ Pour ce jalon vous devrez
 	- Synthèse des entretiens avec les experts
 	- Liste des revues et conférences
 	- Liste des experts potentiels
+	- Compte rendu des jalons précédents
 
 ## Jalon finale - Lundi 28 février avant 23h59
+
+À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/PW3DQhisE2WsFpY)
+
 ### Plan du livrable final
 - Résumé
 - Introduction
@@ -152,6 +165,7 @@ Pour ce jalon vous devrez
 	- Synthèse des entretiens avec les experts
 	- Liste des revues et conférences
 	- Liste des experts potentiels
+	- Compte rendu des jalons précédents
 
 # Ressources
 
