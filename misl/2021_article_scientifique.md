@@ -170,7 +170,7 @@ Pour ce jalon vous devrez
 
 # Ressources
 
-- http://www.mgtfe.be/guide-de-redaction/8-plan-de-redaction-du-tfe/8-1-le-plan-imrad-imred/
-- https://tlte.paris-sorbonne.fr/ressources-pratiques/
-- https://hal.archives-ouvertes.fr/cel-01225190
+- [MGTFE](http://www.mgtfe.be/guide-de-redaction/8-plan-de-redaction-du-tfe/8-1-le-plan-imrad-imred/)
+- [TLTE](https://tlte.paris-sorbonne.fr/ressources-pratiques/)
+- [Méthodologie du mémoire de Master(https://hal.archives-ouvertes.fr/cel-01225190)
   
