@@ -21,15 +21,16 @@ More information about [Mastère Spécialisé Management Industriel et Systèmes
 
 ## Short biography in English
 
-Arthur Gaudron is an Associate Professor in the Center for Robotics at MINES ParisTech, PSL University. He develops his research about system modelling within the Chaire Logistique Urbaine (sponsored by La Poste, Pomona, Renault, ADEME and the City of Paris) with a focus on the effectivity of decision support systems. Among his teaching duties, he manages the Mastère Spécialisé Management Industriel et Systèmes Logistique, and he is the coordinator of the ATHENS week “City Logistics: decision-making in a complex system”.
+Arthur Gaudron is an Associate Professor in the Center for Robotics at MINES ParisTech, PSL University. He develops his research about system modelling within the Chaire Logistique Urbaine (sponsored by La Poste, Pomona, Renault, ADEME and the City of Paris) with a focus on the effectivity of decision support systems. He is the director of the Mastère Spécialisé "Management Industriel et Systèmes Logistique" and the Chair Holder of the "Chaire Logistique Urbaine".
 
 ## Courte biographie en français
 
 Arthur Gaudron est Enseignant-Chercheur (Maître-Assistant) au sein du Centre de Robotique à MINES ParisTech Université PSL. Il développe un programme de recherche autour de la science des données dans le contexte de l'ingénierie industrielle. Son travail se concentre sur la relation entre la conception et l'utilisation d'un système d'aide à la décision. Il applique notamment ses travaux 
-au sein de la Chaire Logistique Urbaine (La Poste, Pomona, Renault, ADEME et la Ville de Paris) qu'il dirige, où il existe des interactions explicites et surtout implicites avec d'autres systèmes. Il dirige le Mastère Spécialisé Management Industriel et Systèmes Logistiques à MINES ParisTech. Il participe à l'option Systèmes Production et Logistique pour les élèves-ingénieurs de MINES ParisTech.
+au sein de la Chaire Logistique Urbaine (La Poste, Pomona, Renault, ADEME et la Ville de Paris) qu'il dirige, où il existe des interactions explicites et surtout implicites avec d'autres systèmes. Il est le directeur du Mastère Spécialisé "Management Industriel et Systèmes Logistiques" et il est le titulaire de la Chaire Logistique Urbaine MINES ParisTech.
 
 
 
+<!---
 ## Selected publications
 All my publications are listed in my CV.
 
