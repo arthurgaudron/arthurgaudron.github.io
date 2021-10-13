@@ -173,4 +173,17 @@ Pour ce jalon vous devrez
 - [MGTFE](http://www.mgtfe.be/guide-de-redaction/8-plan-de-redaction-du-tfe/8-1-le-plan-imrad-imred/)
 - [TLTE](https://tlte.paris-sorbonne.fr/ressources-pratiques/)
 - [Méthodologie du mémoire de Master](https://hal.archives-ouvertes.fr/cel-01225190)
-  
+
+# Journaux
+
+## Incontournables
+- [Journal of Purchasing and Supply Management](https://www.sciencedirect.com/journal/journal-of-purchasing-and-supply-management)
+- [Journal of Supply Chain Management](https://onlinelibrary.wiley.com/journal/1745493x)
+- [Supply Chain Management](https://www.emeraldgrouppublishing.com/journal/scm)
+
+## Intéressants
+- INTERNATIONAL JOURNAL OF INTEGRATED SUPPLY MANAGEMENT
+- SUPPLY CHAIN FORUM: AN INTERNATIONAL JOURNAL
+- EUROPEAN JOURNAL OF PURCHASING AND SUPPLY MANAGEMENT
+- INTERNATIONAL JOURNAL OF INFORMATION SYSTEMS AND SUPPLY CHAIN MANAGEMENT
+- JOURNAL OF HUMANITARIAN LOGISTICS AND SUPPLY CHAIN MANAGEMENT
