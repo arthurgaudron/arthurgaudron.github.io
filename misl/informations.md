@@ -38,7 +38,7 @@ Pour rejoindre un cours sur zoom :
 - Le numéro de l'assistance (service audiovisuel) est 01 40 51 91 37.
 
 Il est souvent plus confortable d'utiliser votre propre ordinateur en rejoignant la réunion zoom directement : 
-- :triangular_flag_on_post: **Attention** :triangular_flag_on_post: cela nécessite un accès internet sur votre ordinateur via EDUROAM (pour les enseignants-chercheurs) ou la 4G (faute de mieux...).
+- :triangular_flag_on_post: **Attention** :triangular_flag_on_post: cela nécessite un accès internet sur votre ordinateur via EDUROAM (pour les enseignants-chercheurs), le réseau "Invités" (demandez un accès à l'accueil) ou votre 4G (en dernier recours).
 - pour projeter votre écran sur zoom : utiliser l'ordinateur de la salle pour pouvoir récupérer les informations de connexion sur [https://salles-zoom.mines-paristech.fr/](https://salles-zoom.mines-paristech.fr/).
 - pour projeter votre écran dans la salle : brancher votre ordinateur personnel sur le HDMI et assurez vous que le sélecteur d'écran est sur "2"
 
