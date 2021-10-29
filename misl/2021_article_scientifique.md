@@ -67,7 +67,7 @@ Dans le cas où votre article est proche de remplir toutes les exigences académ
 
 Les horaires des revues seront disponibles sur l’agenda électronique.
 
-## Premier jalon — Jeudi 5 novembre avant 23h59
+## Premier jalon — Jeudi 4 novembre avant 23h59
 
 À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/ydSTAWHWoRl9dqv).
 
@@ -90,7 +90,7 @@ Sur la base de vos lectures, vous pourrez affiner votre problématique. Et à ce
 
 Pour l’introduction, à ce stade, vous devriez avoir une ou plusieurs questions de recherche. Pour chacune de ces questions, vous rédigerez un texte pour synthétiser les apports des différents articles et surtout ce qu’il manque. Au cours de ce travail, vous devrez probablement reformuler les questions de recherche, en supprimer ou en combiner.
 
-## Deuxième jalon — Jeudi 26 novembre avant 23h59
+## Deuxième jalon — Jeudi 25 novembre avant 23h59
 
 À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/EZel3w72QZ3udbZ).
 
@@ -108,7 +108,7 @@ Pour l’introduction, à ce stade, vous devriez avoir une ou plusieurs question
 
 Pour ce jalon vous devez rendre une version du résumé et de l’introduction avec les modifications demandées. Vous devez affiner et développer les idées principales que vous souhaitez traiter dans votre cadre d’analyse et les conclusions pressenties. Ces idées doivent être présentées sous forme d’hypothèses de recherche. Vous devez fournir également une première version de l’analyse (2 à 3 pages) et une discussion des résultats (2 à 3 pages).
 
-## Troisième jalon - Mardi 15 décembre avant 23h59
+## Troisième jalon - Mardi 14 décembre avant 23h59
 
 À déposer via ce [lien](https://cloud.mines-paristech.fr/index.php/s/0H8UEoGCYnEsOsU).
 
