@@ -5,7 +5,7 @@ Ces ressources sont triées par type de supports.
 
 Dalrymple, William, et France Camus-Pichon. Anarchie: l’implacable ascension de l’East India company. Lausanne: les Éditions Noir sur blanc, 2021.
 
-``` Un livre d'histoire décrivant la relation entre le pouvoir commerciale et le pouvoir impérial au travers de la naissance et la disparition de la première multinationale : la East Indian Company ```
+> Un livre d'histoire décrivant la relation entre le pouvoir commerciale et le pouvoir impérial au travers de la naissance et la disparition de la première multinationale : la East Indian Company.
 
 # Actualités
 
