@@ -7,11 +7,11 @@ Dalrymple, William, et France Camus-Pichon. Anarchie: l’implacable ascension d
 
 > Un livre d'histoire décrivant la relation entre le pouvoir commerciale et le pouvoir impérial au travers de la naissance et la disparition de la première multinationale : la East Indian Company.
 
-# Emission de radio
+# Emissions de radio
 
-[Avoir raison avec...](https://www.franceculture.fr/emissions/avoir-raison-avec)
+[Avoir raison avec... — France Culture](https://www.franceculture.fr/emissions/avoir-raison-avec)
 
-> Une émission préparée d'une main de maître où la pertinence des questions suprenne souvent les invités spécialistes du sujet (universitaires, écrivains, etc.) peu habitués à en recevoir en dehors de leur cercle.
+> Une émission préparée d'une main de maître où la pertinence des questions suprend souvent les invités spécialistes du sujet (universitaires, écrivains, etc.).
 
 # Actualités
 
