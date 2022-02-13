@@ -11,7 +11,7 @@ Dalrymple, William, et France Camus-Pichon. Anarchie: l’implacable ascension d
 
 [Avoir raison avec... — France Culture](https://www.franceculture.fr/emissions/avoir-raison-avec)
 
-> Une émission préparée d'une main de maître où la pertinence des questions suprend souvent les invités spécialistes du sujet (universitaires, écrivains, etc.).
+> Une émission préparée d'une main de maître où la pertinence des questions suprend souvent les invités spécialistes du sujet (une grande figure de la pensée moderne).
 
 # Actualités
 
