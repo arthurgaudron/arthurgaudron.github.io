@@ -3,7 +3,7 @@ title: Arthur Gaudron
 ---
 
 ## Research interest
-Operation Management | Supply Chain Management | Industrial Engineering | City Logistics
+Operation Management | Supply Chain Management | Industrial Engineering | City Logistics |
 Data science | Operational Research | Data analytics
 
 ## Short vita
