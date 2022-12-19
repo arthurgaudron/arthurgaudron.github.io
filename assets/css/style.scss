@@ -3,3 +3,21 @@
 ---
 
 @import "{{ site.theme }}";}
+
+.page-header {
+  background-color: #005e9e;
+}
+
+.project-tagline {
+  opacity:1;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #005e9e;
+  text-transform: uppercase;
+}
+
+a {
+  color: #f0aa00;
+}
+
