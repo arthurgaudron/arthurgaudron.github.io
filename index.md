@@ -3,30 +3,31 @@ title: Arthur Gaudron
 ---
 
 ## Research interest
-Data science | Operational Research | Supply Chain Management | Industrial Engineering | Urban Logistics
+Operation Management | Supply Chain Management | Industrial Engineering | City Logistics
+Data science | Operational Research | Data analytics
 
 ## Short vita
 
-- Director of the Mastère Spécialisé Management Industriel et Systèmes Logistiques (2021 — now)
-- Chair Holder of the Chaire Logistique Urbaine (2021 — now)
+- Head of the Mastère Spécialisé Management Industriel et Systèmes Logistiques (2021 — now)
+- Holder of the Chaire Logistique Urbaine (2021 — now)
 - Associate Professor at the Center for Robotics, MINES ParisTech, PSL University (2020 — now)
-- PhD, MINES ParisTech, PSL University (2017 — 2020)
-- R&D Project Manager, MINES ParisTech, PSL University (2014 — 2020)
+- PhD, Mines Paris, PSL University (2017 — 2020)
+- R&D Project Manager, Mines Paris, PSL University (2014 — 2020)
 
 My Curriculum Vitae is available as a [pdf ](cv/Arthur_Gaudron_CV_eng_full.pdf):page_with_curl:.
 
-More information about [MINES ParisTech Chaire Logistique Urbaine Logistics Chair](http://chairelogistiqueurbaine.fr/).
+More information about [Mines Paris Chaire Logistique Urbaine Logistics Chair](http://chairelogistiqueurbaine.fr/).
 
 More information about [Mastère Spécialisé Management Industriel et Systèmes Logistiques](https://www.misl.minesparis.psl.eu/).
 
 ## Short biography in English
 
-Arthur Gaudron is an Associate Professor in the Center for Robotics at MINES ParisTech, PSL University. He develops his research about system modelling within the Chaire Logistique Urbaine (sponsored by La Poste, Pomona, Renault, ADEME and the City of Paris) with a focus on the effectivity of decision support systems. He is the director of the Mastère Spécialisé "Management Industriel et Systèmes Logistique" and the Chair Holder of the "Chaire Logistique Urbaine".
+Arthur Gaudron is an Associate Professor in the Center for Robotics at Mines Paris - PSL. He develops his research about system modelling within the Chaire Logistique Urbaine (sponsored by La Poste, Pomona, Renault, ADEME and the City of Paris) with a focus on the effectivity of decision support systems. He is the head of the Mastère Spécialisé "Management Industriel et Systèmes Logistiques" and the holder of the "Chaire Logistique Urbaine".
 
 ## Courte biographie en français
 
-Arthur Gaudron est Enseignant-Chercheur (Maître-Assistant) au sein du Centre de Robotique à MINES ParisTech Université PSL. Il développe un programme de recherche autour de la science des données dans le contexte de l'ingénierie industrielle. Son travail se concentre sur la relation entre la conception et l'utilisation d'un système d'aide à la décision. Il applique notamment ses travaux 
-au sein de la Chaire Logistique Urbaine (La Poste, Pomona, Renault, ADEME et la Ville de Paris) qu'il dirige, où il existe des interactions explicites et surtout implicites avec d'autres systèmes. Il est le directeur du Mastère Spécialisé "Management Industriel et Systèmes Logistiques" et il est le titulaire de la Chaire Logistique Urbaine MINES ParisTech.
+Arthur Gaudron est Enseignant-Chercheur (Maître-Assistant) au sein du Centre de Robotique à Mines Paris - PSL. Il développe un programme de recherche autour de la science des données dans le contexte de l'ingénierie industrielle. Son travail se concentre sur la relation entre la conception et l'utilisation d'un système d'aide à la décision. Il applique notamment ses travaux 
+au sein de la Chaire Logistique Urbaine (La Poste, Pomona, Renault, ADEME et la Ville de Paris) qu'il dirige, où il existe des interactions explicites et surtout implicites avec d'autres systèmes. Il est le directeur du Mastère Spécialisé "Management Industriel et Systèmes Logistiques" et il est le titulaire de la Chaire Logistique Urbaine Mines Paris.
 
 
 
