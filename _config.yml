@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-theme: minima
-=======
 theme: jekyll-theme-cayman
->>>>>>> parent of 1be2063 (Update _config.yml)
 title: Arthur Gaudron
 description: Associate Professor at the Center for Robotics, Mines Paris, PSL University
 plugins:
