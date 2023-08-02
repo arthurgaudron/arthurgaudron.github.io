@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "5,5 milliards d'euros d'investissement public par l’État français dans l'industrie des semi-conducteurs, la bonne idée ?"
+author: 
+    - Arthur Gaudron
 categories: 
     - AMI
     - CPIM
-author:
-    - Arthur Gaudron
+
 ---
 
  D’un côté, Warren Buffet retire ses billes (4,1 milliards de USD) de TSMC, le plus gros fabricant de semi-conducteurs [1]. De l’autre, la France souhaite investir 5,5 milliards d'ici 2030 et l’Europe 43 milliards… Il y a un truc qui se trame.
