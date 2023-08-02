@@ -4,7 +4,7 @@ title: "5,5 milliards d'euros d'investissement public par l’État français da
 author: 
     - Arthur Gaudron
 category: 
-    - L'art de la mission industrielle
+    - "L'art de la mission industrielle"
     - CPIM
 
 ---
