@@ -3,8 +3,8 @@ layout: post
 title: "5,5 milliards d'euros d'investissement public par l’État français dans l'industrie des semi-conducteurs, la bonne idée ?"
 author: 
     - Arthur Gaudron
-categories: 
-    - AMI
+category: 
+    - L'art de la mission industrielle
     - CPIM
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " L'analyse de texte et le geste au tennis : perfectionnement et automatisme "
-categories: AMI
+category: AMI
 author: 
     - Arthur Gaudron
 ---
