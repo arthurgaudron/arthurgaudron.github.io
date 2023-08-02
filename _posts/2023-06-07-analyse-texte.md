@@ -2,7 +2,7 @@
 layout: post
 title: " L'analyse de texte et le geste au tennis : perfectionnement et automatisme "
 categories: AMI
-authors: Arthur Gaudron
+author: Arthur Gaudron
 ---
 
 Dans un monde en accélération, il faut être vigilant à ne pas se retrouver largué… mais ne serait-ce que pour dénoncer cette course à l’échalote, il faut réussir à développer une posture critique ! C’est le serpent qui se mord la queue…
