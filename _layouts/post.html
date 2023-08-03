@@ -25,9 +25,9 @@ layout: base
         {% endfor %}
       {%- endif -%}
       {%- if page.category -%}
-         • {% for catergory in page.category %}
+         • {% for category in page.category %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ catergory }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ category }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
       {% endfor %}
       {%- endif -%}
