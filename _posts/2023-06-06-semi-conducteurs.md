@@ -46,7 +46,8 @@ Pour comprendre, penchons-nous la chaîne de valeur des semi-conducteurs.
 Il y a deux grandes activités dans les semi-conducteurs : la conception (Intel, Samsung, AMD Infineon, STMicro, nvidia, etc.) et la fabrication (TSMC, Samsung, GlobalFoundries, etc.). Mais il y a aussi des fournisseurs, tout aussi stratégiques que le reste ! Une petite pensée à l’entreprise néerlandaise ASML qui doit se tenir gentiment à distance de la Chine sous peine de devoir se subir le courroux de la diplomatie et de la justice étasunienne. C’est donc une affaire d’industriels, de financiers, de financement public mais aussi de géopolitique.
 
 Le problème à résoudre : avec 10% de la chaîne de valeur, est-ce que j'ai "10% de souveraineté" ou je suis plus proche de 0% ?
-Analyse de risques
+
+# Analyse de risques
 
 Analysons sur un coin de table la récente nouvelle d’investissement à Grenoble de STMicro et GlobalFoundries : c’est un investissement de 7,5 milliards d’euros avec un soutien de 2,9 milliards de l’État [5] !
 
