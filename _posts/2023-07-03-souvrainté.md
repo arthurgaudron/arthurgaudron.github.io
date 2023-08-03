@@ -4,8 +4,7 @@ title: "Quelques exemples sur le thème de l’ingérence et de la souveraineté
 author: 
     - Arthur Gaudron
 category: 
-    - AMI
-    - CPIM
+    - Culture Industrielle
 ---
 
 🚨 Les limites d’un embargo

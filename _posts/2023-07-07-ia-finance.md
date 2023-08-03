@@ -4,7 +4,8 @@ title: " Le secteur financier face à l'IA et au numérique : de précieuses le�
 author: 
     - Arthur Gaudron
 category: 
-    - AMI
+    - Culture Industrielle
+    - Numérique
 ---
 
 « La diffusion de l’IA a moins vocation à détruire les emplois qu’à transformer nos organisations en fourmilière agitée avec une utilité sociale qui reste à démontrer »

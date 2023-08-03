@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le diable est dans les détails... d'une nomenclature"
-category: AMI
+category: Culture Industrielle
 author: 
     - Arthur Gaudron
 ---

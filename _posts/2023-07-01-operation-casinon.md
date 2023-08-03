@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les coulisses de l'opération commando d'Intermarché sur Casino"
-category: AMI
+category: Culture Industrielle
 author: 
     - Arthur Gaudron
 ---

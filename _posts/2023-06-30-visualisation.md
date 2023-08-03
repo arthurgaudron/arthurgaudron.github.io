@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visualisation des faillites bancaires U.S.A."
-category: AMI
+category: Communication
 author: 
     - Arthur Gaudron
 ---

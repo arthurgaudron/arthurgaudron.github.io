@@ -4,7 +4,8 @@ title: "Les plateformes industrielles numériques (Digital Industrial Platforms)
 author: 
     - Arthur Gaudron
 category: 
-    - AMI
+    - Culture Industrielle
+    - Numérique
 ---
 
 Les plateformes industrielles numériques (Digital Industrial Platforms), c’est le futur ! C’est en tout cas ce que Pauli et al. (2021) [0] semble-nous dire. Le monde s’est fait « plateformisé » alors pourquoi pas l’industrie ?

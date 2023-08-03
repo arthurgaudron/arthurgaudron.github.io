@@ -4,7 +4,7 @@ title: "Développement commercial et développment spirituel : le cas de la Char
 author: 
     - Arthur Gaudron
 category: 
-    - AMI
+    - Culture Industrielle
 ---
 
 Pire que la faillite économique ? C'est la faillite spirituelle. C'est en tout cas l'avis sans appel des Pères Chartreux qui produisent la célèbre Chartreuse.

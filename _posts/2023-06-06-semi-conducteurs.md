@@ -4,8 +4,7 @@ title: "5,5 milliards d'euros d'investissement public par l’État français da
 author: 
     - Arthur Gaudron
 category: 
-    - AMI
-    - CPIM
+    - Culture Industrielle
 
 ---
 
