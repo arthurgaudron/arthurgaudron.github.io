@@ -15,7 +15,7 @@ Operation Management | Supply Chain Management | Industrial Engineering | City L
 - PhD, Mines Paris - PSL (2017 — 2020)
 - R&D Project Manager, Mines Paris - PSL (2014 — 2020)
 
-My Curriculum Vitae is available as a [pdf ](media/cv/Arthur_Gaudron_CV_eng_full.pdf):page_with_curl:.
+My Curriculum Vitae is available as a [pdf ](media/cv/Arthur_Gaudron_CV_eng_full.pdf).
 
 More information about [Mines Paris Chaire Logistique](http://chairelogistiqueurbaine.fr/).
 

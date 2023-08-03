@@ -5,7 +5,7 @@ author:
     - Arthur Gaudron
 category: 
     - Culture Industrielle
-    - Numérique
+    - Numérique et industrie
 ---
 
 « La diffusion de l’IA a moins vocation à détruire les emplois qu’à transformer nos organisations en fourmilière agitée avec une utilité sociale qui reste à démontrer »
