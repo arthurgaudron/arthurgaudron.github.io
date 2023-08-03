@@ -1,6 +1,12 @@
+---
+layout: post
+title: "Simple Distribution Problem with tuple as a key"
+author: 
+    - Arthur Gaudron
+category: 
+    - Aide à la décision
+---
 
-
-# Simple Distribution Problem - Tuple as a key
 
 Another data structure can be used for the cost in the Simple Distribution Problem.
 

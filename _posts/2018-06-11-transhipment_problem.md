@@ -26,9 +26,7 @@ Here a transhipment constraint is added to the initial problem (look at older po
 
 Following Sankey diagram represents the solution to this problem.
 
-<p align="center">
-<img src="/img/sankey_tranship.png" alt="Sankey Diagram">
-</p>
+![Sankey Diagram](/assets/2018-06-11-transhipment_problem/sankey_tranship.png)
 
  <!--more-->
 
