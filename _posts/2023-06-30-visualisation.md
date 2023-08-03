@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visualisation des faillites bancaires U.S.A."
-category: Communication
+category: Analyse et Communication
 author: 
     - Arthur Gaudron
 ---
