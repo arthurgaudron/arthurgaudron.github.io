@@ -28,8 +28,8 @@ layout: base
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         
 
-        {%- if page.category -%}
-         • {% for category in page.category %}{{ category }}
+        {%- if post.category -%}
+         • {% for category in post.category %}{{ category }}
          {%- if forloop.last == false %}, {% endif -%}
           {% endfor %}
         {%- endif -%}
