@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Le secteur financier face à l'IA et au numérique : de précieuses leçons sur l'emploi [O.Passet]"
+title: "Développement commercial et développment spirituel : le cas de la Chartreuse"
 author: 
     - Arthur Gaudron
 category: 
