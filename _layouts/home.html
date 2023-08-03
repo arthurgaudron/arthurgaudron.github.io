@@ -26,12 +26,7 @@ layout: base
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if post.category -%}
-         • {% for catergory in post.category %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ catergory }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
+        <span class="post-meta">{{ post.category }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
