@@ -1,1 +1,4 @@
-category
+---
+layout: category
+title: Catégories
+---
