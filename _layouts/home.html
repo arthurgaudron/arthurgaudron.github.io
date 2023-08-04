@@ -30,7 +30,7 @@ layout: base
 
         {%- if post.category -%}
           {% for category in post.category %}<span class="post-meta"> • {{ category }}</span>
-         {%- if forloop.last == false %}, {% endif -%}
+         {%- if forloop.last == false %} {% endif -%}
           {% endfor %}
         {%- endif -%}
 
