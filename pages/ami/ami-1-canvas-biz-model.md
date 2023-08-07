@@ -51,3 +51,39 @@ Débriefing collectif sur les modèles d'affaires étudiés et sur l'apport conc
 - Définir les compétences tranvsersales mises en application
 - Identifier et observer les compétences 
 - Analyser les compétences
+
+## Contenu
+
+### Phase 1 
+Le jeu pédagogique LEAP propose un ensemble de compétences transversales.
+
+À partir des rectangles verts et bleus qui vous seront assignés par groupe, vous devrez mobiliser des exemples illustrant une bonne mise en oeuvre (ou une mise en oeuvre perfectible) d'une compétence. Vous devrez les présentez au reste du groupe.
+
+![Compétences tranversales par LEAP](/assets/ami-1-canvas-biz-model/leap-competences-trans.png)
+
+### Phase 2
+
+Dans une démarche de recherche, les exemples que vous avez partagés sont des **données**. 
+
+Les données sont étudiées au regard de l'ensemble des compétences proposées par le jeu pédagogique qui forme **le cadre d'analyse**.
+
+La **méthodologie** est la démarche de collecte des données à analyser.
+
+La **problématique** est la question à laquelle vous chercher une ou plusieurs réponses.
+
+Par piscine :
+- vous réaliser une expérience : la méthodologie est le proctocole d'expérience
+- vous observez un phénomène : le papier pH trempé dans un liquide contenant du bicarbonate de soude prend une teinte bleue.
+- vous analysez le phénomène à partir d'un cadre d'analyse : le papier pH est un indicateur coloré qui permet la détection de l'ion H<sub>3</sub>O<sup>+</sup>, une teine bleue indique que le liquide est basique.
+- l'analyse répond à votre problématique (en partie ou dans son ensemble) : aucune algue ne se développera dans l'eau de la piscine.
+
+
+Dans l'article suivant :
+
+Sassi, Narjes, et Hicham Sebti. « La fabrique du manager. Le travail en équipe face aux défis de l’altérité ». Revue française de gestion 310, nᵒ 3 (2023): 15‑38. https://doi.org/10.3166/rfg.310.15-38.
+
+Dans la section 1, lire l'encadré "Méthodologie"
+- Quel est le cadre d'analyse ?
+
+Dans la section 2, lire la sous-section 2.1 "La mise en altérité des membres de l’équipe"
+- Quelle est la différence entre ce qui encadré et ce qui ne l'est pas ?
