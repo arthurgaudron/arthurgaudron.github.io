@@ -47,3 +47,7 @@ Débriefing collectif sur les modèles d'affaires étudiés et sur l'apport conc
 
 # Analyse des compétences transversales
 
+## Objectifs pédagogiques
+- Définir les compétences tranvsersales mises en application
+- Identifier et observer les compétences 
+- Analyser les compétences
