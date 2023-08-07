@@ -43,3 +43,7 @@ Vous pouvez maintenant utiliser les cartes du jeu pour proposer un modèle d'aff
 **Phase 3**
 
 Débriefing collectif sur les modèles d'affaires étudiés et sur l'apport conceptuel du canevas.
+
+
+# Analyse des compétences transversales
+
