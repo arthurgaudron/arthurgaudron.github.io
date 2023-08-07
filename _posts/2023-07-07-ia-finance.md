@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Le secteur financier face à l'IA et au numérique : de précieuses leçons sur l'emploi [O.Passet]"
+title: " Le secteur financier face à l'IA et au numérique : de précieuses leçons sur l'emploi"
 author: 
     - Arthur Gaudron
 category: 
