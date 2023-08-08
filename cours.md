@@ -5,7 +5,7 @@ permalink: /cours/
 ---
 
 
-## L'art de la mission industrielle
+## [L'art de la mission industrielle](/ami/)
 
 ## Préparation au CPIM
 
