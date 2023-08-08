@@ -4,22 +4,21 @@ title: À propos
 permalink: /about/
 ---
 
-## Research interest
+## Recherche
 Operation Management | Supply Chain Management | Industrial Engineering | City Logistics | Data science | Operational Research | Data analytics
 
-## Short vita
+## CV
 
-- Head of the Mastère Spécialisé Management Industriel et Systèmes Logistiques (2021 — now)
-- Holder of the Chaire Logistique Urbaine (2021 — now)
-- Associate Professor at the Center for Robotics, Mines Paris - PSL (2020 — now)
-- PhD, Mines Paris - PSL (2017 — 2020)
-- R&D Project Manager, Mines Paris - PSL (2014 — 2020)
+- Responsable du Mastère Spécialisé Management Industriel et Systèmes Logistiques (2021 — aujourd'hui)
+- Titulaire de la Chaire Logistique Urbaine (2021 — aujourd'hui)
+- Enseignant-Chercheur (Associate Professor) au Centre de Robotique, Mines Paris - PSL (2020 — aujourd'hui)
+- Doctorat, Mines Paris - PSL (2017 — 2020)
 
-My Curriculum Vitae is available as a [pdf ](media/cv/Arthur_Gaudron_CV_eng_full.pdf).
+Mon CV est disponible en [pdf](assets/Arthur_Gaudron_CV_eng_full.pdf).
 
-More information about [Mines Paris Chaire Logistique](http://chairelogistiqueurbaine.fr/).
+Plus d'information sur la [Chaire Logistique Mines Paris](http://chairelogistiqueurbaine.fr/).
 
-More information about [Mastère Spécialisé Management Industriel et Systèmes Logistiques](https://www.misl.minesparis.psl.eu/).
+Plus d'information sur le [Mastère Spécialisé Management Industriel et Systèmes Logistiques](https://www.misl.minesparis.psl.eu/).
 
 ## Courte biographie en français
 

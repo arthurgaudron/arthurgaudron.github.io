@@ -88,8 +88,8 @@ Une demi-journée
 - Discussion sur le choix d’un sujet pour la note d’analyse
 
 #### Ressources
-- Kalika, Michel, Philippe Mouricou, et Lionel Garreau. Le mémoire de master. • Piloter un mémoire • Rédiger un rapport • Préparer une soutenance. Vol. 5e éd. Méthod’o. Paris: Dunod, 2021. https://www.cairn.info/le-memoire-de-master--9782100826889.htm.
-- Fragnière, Jean-Pierre. Comment réussir un mémoire. Choisir son sujet, gérer son temps, savoir rédiger. Vol. 5e éd. Méthod’o. Paris: Dunod, 2023. https://www.cairn.info/comment-reussir-un-memoire--9782100848348.htm.
+- Kalika, Michel, Philippe Mouricou, et Lionel Garreau. Le mémoire de master. • Piloter un mémoire • Rédiger un rapport • Préparer une soutenance. Vol. 5e éd. Méthod’o. Paris: Dunod, 2021. [https://www.cairn.info/le-memoire-de-master--9782100826889.htm](https://www.cairn.info/le-memoire-de-master--9782100826889.htm).
+- Fragnière, Jean-Pierre. Comment réussir un mémoire. Choisir son sujet, gérer son temps, savoir rédiger. Vol. 5e éd. Méthod’o. Paris: Dunod, 2023. [https://www.cairn.info/comment-reussir-un-memoire--9782100848348.htm](https://www.cairn.info/comment-reussir-un-memoire--9782100848348.htm)
 
 ---
 
@@ -106,9 +106,10 @@ Une demi-journée
 - Les outils de la bibliothèque
 - Zotero
 - Le plagiat
+
 ### Ressources
-- La bibliothèque de Mines Paris - https://www.bib.minesparis.psl.eu/ 
-- Cairn.info - https://www.cairn.info 
+- La bibliothèque de Mines Paris - [https://www.bib.minesparis.psl.eu/](https://www.bib.minesparis.psl.eu/)
+- Cairn.info - [https://www.cairn.info](https://www.cairn.info)
 - Kalika, Michel, Philippe Mouricou, et Lionel Garreau. « 10. Le plagiat et la citation des sources », , Le mémoire de master. • Piloter un mémoire • Rédiger un rapport • Préparer une soutenance, sous la direction de Kalika Michel, Mouricou Philippe, Garreau Lionel. Dunod, 2021, pp. 135-144.
 
 ---
@@ -120,7 +121,7 @@ Une demi-journée
 Le réel, épreuve ultime de la théorie, ne fait généralement pas de cadeaux à l’impréparation. Il s’agit de réfléchir à son projet professionnel d’où découlera (presque) naturellement l’identification d’un secteur d’activité ou d’une entreprise, l’élaboration d’un CV et d’une lettre de motivation, et la préparation d’un entretien.
 
 ### Durée
-une demi-journée
+Une demi-journée
 
 ### Plan de séance
 - Retour sur les missions industrielles précédentes
@@ -140,10 +141,10 @@ une demi-journée
 La rédaction et la soutenance
 
 La rédaction est un processus incontournable pour le mémoire de thèse, comme dans la suite du projet professionnel de l’apprenant.e. C’est une nouvelle fois l’épreuve du réel : sa pensée est nue sur un papier ou un pdf. Elle n’est plus à l’abri des regards. Derrière cette épreuve, il y a une récompense. L’écriture transforme la pensée pour, si nous nous referons au cadre de la rhétorique, pour produire un discours rationnel (logos) connecté avec son auditoire (pathos) et en cohérence avec les valeurs de l’auteur (ethos).
-La soutenance est l’épreuve finale de la formation du MS MISL, il convient d’en maîtriser les attentes formelles, mais aussi les « règles du jeu ».
+La soutenance est l’épreuve finale de la formation du MS MISL, il convient d’en maîtriser les attentes formelles, mais aussi certaines « règles du jeu » moins explicites.
 
 ### Durée
-une demi-journée
+Une demi-journée
 
 ### Plan de la séance
 - Poésie : la poésie sauvera le monde
@@ -153,9 +154,9 @@ une demi-journée
 
 ### Ressources
 - Fogel, Jean-François. 37 règles pour savoir tout écrire. Malakoff: Dunod, 2023.
-- Kalika, Michel, Philippe Mouricou, et Lionel Garreau. « 12. Les conseils pour la rédaction ». In Le mémoire de master, 5e éd.:157 67. Méthod’o. Paris: Dunod, 2021. https://www.cairn.info/le-memoire-de-master--9782100826889-p-157.htm.
-- KALIKA Michel, MOURICOU Philippe, GARREAU Lionel, « 13. La soutenance », dans :  Le mémoire de master. Paris, Dunod, « Méthod'o », 2021, p. 169-178. URL https://www-cairn-info.portail.psl.eu/le-memoire-de-master--9782100826889-page-169.htm 
-- Moulène, Frédéric. « Violence des échanges en milieu tempéré. Un film face à son public ». Sociologies pratiques 33, no 3 (2016): 71 79. https://doi.org/10.3917/sopr.033.0067.
+- Kalika, Michel, Philippe Mouricou, et Lionel Garreau. « 12. Les conseils pour la rédaction ». In Le mémoire de master, 5e éd.:157 67. Méthod’o. Paris: Dunod, 2021. [https://www.cairn.info/le-memoire-de-master--9782100826889-p-157.htm](https://www.cairn.info/le-memoire-de-master--9782100826889-p-157.htm).
+- KALIKA Michel, MOURICOU Philippe, GARREAU Lionel, « 13. La soutenance », dans :  Le mémoire de master. Paris, Dunod, « Méthod'o », 2021, p. 169-178. URL [https://www-cairn-info.portail.psl.eu/le-memoire-de-master--9782100826889-page-169.htm](https://www-cairn-info.portail.psl.eu/le-memoire-de-master--9782100826889-page-169.htm) 
+- Moulène, Frédéric. « Violence des échanges en milieu tempéré. Un film face à son public ». Sociologies pratiques 33, no 3 (2016): 71 79. [https://doi.org/10.3917/sopr.033.0067](https://doi.org/10.3917/sopr.033.0067).
 
 ---
 
