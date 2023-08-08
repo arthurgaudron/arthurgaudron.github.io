@@ -4,64 +4,68 @@ title: Canvas Business Model
 permalink: /canvas/
 ---
 
-# Découverte du canvas
+## 1. Découverte du canvas
 
-## Objectifs pédagogiques
+### Objectifs pédagogiques
 - Définir un modèle d’affaire
 - Définir les neuf éléments constituant le Canvas Business Model
 - Appliquer le Canvas Business Model sur un exemple 	
 
-## Contenu
+### Contenu
 - Présentation pour la définition des concepts
 - Activité de mise en application sur l'écosystème Ipod/Itunes
 
-# Mettre en oeuvre le canvas
+## 2. Mettre en oeuvre le canvas
 
-## Objectifs pédagogiques
+### Objectifs pédagogiques
 - Discuter le modèle d'affaires d'une entreprise
 - Proposer des alternatives au modèle d'affaires
 - Discuter le concept du Canvas Business Model
 
-## Contenu
+### Contenu
 
-### Activité avec le Leap Game
+#### Activité avec le jeu LEAP
     
+![LEAP](/assets/ami-1-canvas-biz-model/LEAP_Picture_Table.jpg)
+
 En binôme ou en trinôme, choisissez une entreprise dont vous souhaitez analyser le modèle d'affaires. Vous pouvez trouver l'inspiration dans le stock de magazines Bloomberg Businessweek.
 
 ![Bloomberg Businessweek](/assets/ami-1-canvas-biz-model/businessweek.jpg)
 
-**Phase 1**
+#### Phase 1
 
-À partir des informations à votre disposition, vous remplirez le canvas avec les post-its verts.
+À partir des informations à partir d'une référence (presse, site internet, etc.), vous remplirez le canvas avec les post-its verts.
 
 À partir des informations que vous pouvez inférez, vous remplirez le canvas avec les post-its oranges.
 
-**Phase 2**
+#### Phase 2
 
 Vous pouvez maintenant utiliser les cartes du jeu pour proposer un modèle d'affaires alternatif avec des post-its jaunes.
 
-**Phase 3**
+#### Phase 3
 
-Débriefing collectif sur les modèles d'affaires étudiés et sur l'apport conceptuel du canevas.
+Débriefing collectif sur les modèles d'affaires étudiés et sur l'apport conceptuel du canvas.
 
 
-# Analyse des compétences transversales
+## 3. Analyse des compétences transversales
 
-## Objectifs pédagogiques
+### Objectifs pédagogiques
 - Définir les compétences tranvsersales mises en application
-- Identifier et observer les compétences 
-- Analyser les compétences
+- Identifier et observer des compétences tranvsersales
+- Analyser et évaluer des compétences tranvsersales
 
-## Contenu
+### Contenu
 
-### Phase 1 
+#### Phase 1 
 Le jeu pédagogique LEAP propose un ensemble de compétences transversales.
 
-À partir des rectangles verts et bleus qui vous seront assignés par groupe, vous devrez mobiliser des exemples illustrant une bonne mise en oeuvre (ou une mise en oeuvre perfectible) d'une compétence. Vous devrez les présentez au reste du groupe.
+À partir des rectangles verts et bleus qui vous seront assignés par groupe, vous devrez mobiliser des exemples (lors de l'exercie ou en dehors) illustrant la bonne mise en oeuvre (ou une mise en oeuvre perfectible) d'une compétence. Vous devrez les présentez au reste du groupe.
+
+Comment évalueriez-vous ces compétences ?
 
 ![Compétences tranversales par LEAP](/assets/ami-1-canvas-biz-model/leap-competences-trans.png)
 
-### Phase 2
+#### Phase 2
 
 Dans une démarche de recherche, les exemples que vous avez partagés sont des **données**. 
 
@@ -71,19 +75,30 @@ La **méthodologie** est la démarche de collecte des données à analyser.
 
 La **problématique** est la question à laquelle vous chercher une ou plusieurs réponses.
 
-Par piscine :
-- vous réaliser une expérience : la méthodologie est le proctocole d'expérience
+Prenons une anologie issue de la science "dure", le contrôle du pH de la piscine :
+- vous avez une problématique : les algues ont tendance à proliférer dans votre piscine
+- vous avez un cadre d'analyse : le contrôle du pH permet de s'assurer du non développement d'algues dans la piscine/ 
+- vous allez suivre une méthodologie : vous trempez
 - vous observez un phénomène : le papier pH trempé dans un liquide contenant du bicarbonate de soude prend une teinte bleue.
 - vous analysez le phénomène à partir d'un cadre d'analyse : le papier pH est un indicateur coloré qui permet la détection de l'ion H<sub>3</sub>O<sup>+</sup>, une teine bleue indique que le liquide est basique.
-- l'analyse répond à votre problématique (en partie ou dans son ensemble) : aucune algue ne se développera dans l'eau de la piscine.
+- vous pouvez prendre une décision informée : ajouter du chlore, de l'eau
 
+Revenons dans le champ de sciences "molles", dans l'article suivant :
 
-Dans l'article suivant :
-
-Sassi, Narjes, et Hicham Sebti. « La fabrique du manager. Le travail en équipe face aux défis de l’altérité ». Revue française de gestion 310, nᵒ 3 (2023): 15‑38. https://doi.org/10.3166/rfg.310.15-38.
+```Sassi, Narjes, et Hicham Sebti. « La fabrique du manager. Le travail en équipe face aux défis de l’altérité ». Revue française de gestion 310, nᵒ 3 (2023): 15‑38. https://doi.org/10.3166/rfg.310.15-38.```
 
 Dans la section 1, lire l'encadré "Méthodologie"
+- En quoi consiste l'expérience ?
 - Quel est le cadre d'analyse ?
+- Proposer une définition pour le concept de méthodologie
 
 Dans la section 2, lire la sous-section 2.1 "La mise en altérité des membres de l’équipe"
 - Quelle est la différence entre ce qui encadré et ce qui ne l'est pas ?
+
+## 4. Analyse stratégique
+
+### Objectifs pédagogiques
+
+- Définir les outils principaux de l’analyse stratégique : PESTEL, Cinq Forces, SWOT
+- Défi du management de l’innovation (Gartner Hype Cycle)
+- Analyser le positionnement stratégique d’une entreprise (rapport annuel et données)
