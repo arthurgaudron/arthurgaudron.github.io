@@ -1,10 +1,10 @@
 ---
 layout: page
-title: AMI - Modèle d'affaires et stratégie
+title: Modèle d'affaires et stratégie
 permalink: /modele-affaires/
 ---
 
-[Retour au programme](/ami/)
+[Retour au programme du cours AMI](/ami/)
 
 ## 1. Découverte du canvas
 

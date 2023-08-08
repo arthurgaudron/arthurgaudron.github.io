@@ -48,9 +48,11 @@ Ordre de grandeur : 5 000 mots
 
 Date de soumission : 
 
+---
+
 ### Séance 1 
 
-[Le modèle d'affaire](/modele-affaires/)
+[Le modèle d'affaires et stratégie](/modele-affaires/)
 
 La séance est en introduction du MS MISL pour souligner que le but d’une organisation est de créer et de capturer de la valeur. Nous soulignerons que la maîtrise de la chaîne logistique est un moyen pour réaliser ce but et non pas une fin en soi. Pour atteindre ce but, une organisation s’appuie sur un modèle d’affaires (ou business model en anglais).
 
@@ -68,6 +70,7 @@ Une journée
 - LEAP – The business model game https://www.businessmodelgame.com 
 - Michel, Stefan. « Capture More Value ». Harvard Business Review, 1 octobre 2014. https://hbr.org/2014/10/capture-more-value.
 
+---
 
 ### Séance 2
 
@@ -88,6 +91,7 @@ Une demi-journée
 - Kalika, Michel, Philippe Mouricou, et Lionel Garreau. Le mémoire de master. • Piloter un mémoire • Rédiger un rapport • Préparer une soutenance. Vol. 5e éd. Méthod’o. Paris: Dunod, 2021. https://www.cairn.info/le-memoire-de-master--9782100826889.htm.
 - Fragnière, Jean-Pierre. Comment réussir un mémoire. Choisir son sujet, gérer son temps, savoir rédiger. Vol. 5e éd. Méthod’o. Paris: Dunod, 2023. https://www.cairn.info/comment-reussir-un-memoire--9782100848348.htm.
 
+---
 
 ## Séance 3 
 
@@ -107,6 +111,7 @@ Une demi-journée
 - Cairn.info - https://www.cairn.info 
 - Kalika, Michel, Philippe Mouricou, et Lionel Garreau. « 10. Le plagiat et la citation des sources », , Le mémoire de master. • Piloter un mémoire • Rédiger un rapport • Préparer une soutenance, sous la direction de Kalika Michel, Mouricou Philippe, Garreau Lionel. Dunod, 2021, pp. 135-144.
 
+---
 
 ## Séance 4 
 
@@ -128,6 +133,7 @@ une demi-journée
 ### Ressources
 •	Villette, Michel. L’Art du stage en entreprise. Guides repères. Paris: Découverte, 1994.
 
+---
 
 ## Séance 5
 
@@ -151,6 +157,7 @@ une demi-journée
 - KALIKA Michel, MOURICOU Philippe, GARREAU Lionel, « 13. La soutenance », dans :  Le mémoire de master. Paris, Dunod, « Méthod'o », 2021, p. 169-178. URL https://www-cairn-info.portail.psl.eu/le-memoire-de-master--9782100826889-page-169.htm 
 - Moulène, Frédéric. « Violence des échanges en milieu tempéré. Un film face à son public ». Sociologies pratiques 33, no 3 (2016): 71 79. https://doi.org/10.3917/sopr.033.0067.
 
+---
 
 ## Séance 6, 7, 8 et 9 
 
