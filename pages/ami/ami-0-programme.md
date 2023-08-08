@@ -47,7 +47,7 @@ Date de soumission :
 
 ### Séance 1 
 
-[Le modèle d'affaire](/pages/ami/ami-1-modele-affaires.md)
+[Le modèle d'affaire](/pages/ami/ami-1-modele-affaires)
 
 La séance est en introduction du MS MISL pour souligner que le but d’une organisation est de créer et de capturer de la valeur. Nous soulignerons que la maîtrise de la chaîne logistique est un moyen pour réaliser ce but et non pas une fin en soi. Pour atteindre ce but, une organisation s’appuie sur un modèle d’affaires (ou business model en anglais).
 
@@ -68,7 +68,7 @@ Une journée
 
 ### Séance 2
 
-[La note d'analyse et le mémoire de thèse professionnelle](/pages/ami/ami-2-note-memoire.md)
+[La note d'analyse et le mémoire de thèse professionnelle](/pages/ami/ami-2-note-memoire)
 
 Le livrable le plus important du MS MISL, et celui qui demandera le plus d’effort, est le mémoire de thèse professionnelle. Ce document est l’opportunité pour l’étudiant.e de montrer sa capacité à prendre du recul sur son métier, mais aussi à la transmettre et à la valoriser. La note d’analyse est un travail préparatoire permettant aux étudiant.es d’acquérir les compétences nécessaires à la rédaction et comprendre les attendus d’un exercice complexe.
 

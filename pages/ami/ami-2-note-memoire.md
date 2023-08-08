@@ -3,6 +3,8 @@ layout: page
 title: AMI - La note d'analyse et le mémoire de thèse professionnelle
 permalink: /note-memoire/
 ---
+[Retour au programme](/ami/)
+
 
 ## 1. Les enjeux d’une note d’analyse et d’un mémoire
 

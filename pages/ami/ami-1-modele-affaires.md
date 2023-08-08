@@ -4,7 +4,7 @@ title: AMI - Modèle d'affaires et stratégie
 permalink: /modele-affaires/
 ---
 
-[Retour au programme](/pages/ami/ami-0-programme.md)
+[Retour au programme](/ami/)
 
 ## 1. Découverte du canvas
 
