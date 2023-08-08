@@ -25,8 +25,8 @@ c’est en montant sur les épaules de géants ». Issac Newton
 Les modalités sont identiques pour les trois évaluations : 3 points pour la participation, 3 points pour la forme, et 14 points pour le fond.
 
 Détails des attendus pour le fond :
-- introduction : définition du contexte, de la problématique et de l'intérêt (4 points)
-- méthodologie : pertinence du cadre d'analyse et de la démarche de recherche (2 points)
+- introduction : définition du contexte, pertinence de la problématique et du cadre d'analyse (4 points)
+- méthodologie : pertinence de la démarche de recherche (2 points)
 - résultats : présentation des données et analyse des données (3 points)
 - discussion et conclusion : contributions managériales pour le management des opérations et la supply chain (3 points)
 
@@ -89,10 +89,69 @@ Une demi-journée
 - Fragnière, Jean-Pierre. Comment réussir un mémoire. Choisir son sujet, gérer son temps, savoir rédiger. Vol. 5e éd. Méthod’o. Paris: Dunod, 2023. https://www.cairn.info/comment-reussir-un-memoire--9782100848348.htm.
 
 
-Séance 3 : les techniques bibliographiques
+## Séance 3 
 
-Séance 4 : la mission industrielle
+Les techniques bibliographiques
 
-Séance 5 : la rédaction et la soutenance
+Le mémoire et la note doivent s’appuyer sur une recherche bibliographique pour mobiliser des concepts théoriques adaptés, pour contribuer à une discussion ouverte (dans le monde académique ou dans les entreprises) ou bien pour illustrer les arguments avec des exemples et des contre-exemples aussi sérieux que pertinents. Les techniques bibliographiques sont essentielles pour naviguer dans un océan d’informations : trouver la bonne information, retrouver cette bonne information quelques semaines ou mois plus tard, et la citer correctement.
 
-Séance 6, 7, 8 et 9 : travail collaboratif
+### Durée 
+Une demi-journée
+
+### Plan de séance
+- Les outils de la bibliothèque
+- Zotero
+- Le plagiat
+### Ressources
+- La bibliothèque de Mines Paris - https://www.bib.minesparis.psl.eu/ 
+- Cairn.info - https://www.cairn.info 
+- Kalika, Michel, Philippe Mouricou, et Lionel Garreau. « 10. Le plagiat et la citation des sources », , Le mémoire de master. • Piloter un mémoire • Rédiger un rapport • Préparer une soutenance, sous la direction de Kalika Michel, Mouricou Philippe, Garreau Lionel. Dunod, 2021, pp. 135-144.
+
+
+## Séance 4 
+
+[La mission industrielle](/mission-industrielle/)
+
+Le réel, épreuve ultime de la théorie, ne fait généralement pas de cadeaux à l’impréparation. Il s’agit de réfléchir à son projet professionnel d’où découlera (presque) naturellement l’identification d’un secteur d’activité ou d’une entreprise, l’élaboration d’un CV et d’une lettre de motivation, et la préparation d’un entretien.
+
+### Durée
+une demi-journée
+
+### Plan de séance
+- Retour sur les missions industrielles précédentes
+- Discussions sur les projets professionnels
+- Le CV et la lettre de motivation
+- L’entretien
+- La note de cadrage
+- Cadrage de l’exercice sur les notes d’analyse
+
+### Ressources
+•	Villette, Michel. L’Art du stage en entreprise. Guides repères. Paris: Découverte, 1994.
+
+
+## Séance 5
+
+La rédaction et la soutenance
+
+La rédaction est un processus incontournable pour le mémoire de thèse, comme dans la suite du projet professionnel de l’apprenant.e. C’est une nouvelle fois l’épreuve du réel : sa pensée est nue sur un papier ou un pdf. Elle n’est plus à l’abri des regards. Derrière cette épreuve, il y a une récompense. L’écriture transforme la pensée pour, si nous nous referons au cadre de la rhétorique, pour produire un discours rationnel (logos) connecté avec son auditoire (pathos) et en cohérence avec les valeurs de l’auteur (ethos).
+La soutenance est l’épreuve finale de la formation du MS MISL, il convient d’en maîtriser les attentes formelles, mais aussi les « règles du jeu ».
+
+### Durée
+une demi-journée
+
+### Plan de la séance
+- Poésie : la poésie sauvera le monde
+- Cinéma : violence des échanges en milieu tempéré
+- Revue des notes d’analyse : le fond et la forme
+- Quelques conseils pour la soutenance et les « règles du jeu »
+
+### Ressources
+- Fogel, Jean-François. 37 règles pour savoir tout écrire. Malakoff: Dunod, 2023.
+- Kalika, Michel, Philippe Mouricou, et Lionel Garreau. « 12. Les conseils pour la rédaction ». In Le mémoire de master, 5e éd.:157 67. Méthod’o. Paris: Dunod, 2021. https://www.cairn.info/le-memoire-de-master--9782100826889-p-157.htm.
+- KALIKA Michel, MOURICOU Philippe, GARREAU Lionel, « 13. La soutenance », dans :  Le mémoire de master. Paris, Dunod, « Méthod'o », 2021, p. 169-178. URL https://www-cairn-info.portail.psl.eu/le-memoire-de-master--9782100826889-page-169.htm 
+- Moulène, Frédéric. « Violence des échanges en milieu tempéré. Un film face à son public ». Sociologies pratiques 33, no 3 (2016): 71 79. https://doi.org/10.3917/sopr.033.0067.
+
+
+## Séance 6, 7, 8 et 9 
+
+Travail collaboratif
