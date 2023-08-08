@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Canvas Business Model
-permalink: /canvas/
+title: AMI - Modèle d'affaires et stratégie
+permalink: /modele-affaires/
 ---
 
 ## 1. Découverte du canvas
@@ -75,17 +75,17 @@ La **méthodologie** est la démarche de collecte des données à analyser.
 
 La **problématique** est la question à laquelle vous chercher une ou plusieurs réponses.
 
-Prenons une anologie issue de la science "dure", le contrôle du pH de la piscine :
-- vous avez une problématique : les algues ont tendance à proliférer dans votre piscine
-- vous avez un cadre d'analyse : le contrôle du pH permet de s'assurer du non développement d'algues dans la piscine/ 
-- vous allez suivre une méthodologie : vous trempez
-- vous observez un phénomène : le papier pH trempé dans un liquide contenant du bicarbonate de soude prend une teinte bleue.
-- vous analysez le phénomène à partir d'un cadre d'analyse : le papier pH est un indicateur coloré qui permet la détection de l'ion H<sub>3</sub>O<sup>+</sup>, une teine bleue indique que le liquide est basique.
-- vous pouvez prendre une décision informée : ajouter du chlore, de l'eau
+Prenons une anologie issue de la science "dure", le contrôle de la qualité de l'eau de la piscine :
+- **vous avez une problématique** : l'eau est trouble, algues, calcaire, irritation des yeux et de la peau, etc...
+- **vous avez un cadre d'analyse** : la littérature scientifique montre qu'un pH à 7,4 permet d'assurer une qualité de l'eau acceptable sur les différents critères de votre problématique.
+- **vous suivez une méthodologie** : vous trempez un papier pH pour mesurer le pH de la piscine, que vous pourrez corriger à la hausse ou à la baisse pour atteindre 7,4.
+- **vous observez un phénomène** : le papier pH trempé prend une teinte bleue.
+- **vous analysez le phénomène à partir d'un cadre d'analyse** : le papier pH est un indicateur coloré qui permet la détection de l'ion H<sub>3</sub>O<sup>+</sup>, une teine bleue indique que le liquide est basique.
+- **vous pouvez prendre une décision informée** : vous ajoutez un produit pH-piscine pour abaisser le pH.
 
 Revenons dans le champ de sciences "molles", dans l'article suivant :
 
-```Sassi, Narjes, et Hicham Sebti. « La fabrique du manager. Le travail en équipe face aux défis de l’altérité ». Revue française de gestion 310, nᵒ 3 (2023): 15‑38. https://doi.org/10.3166/rfg.310.15-38.```
+> Sassi, Narjes, et Hicham Sebti. « La fabrique du manager. Le travail en équipe face aux défis de l’altérité ». Revue française de gestion 310, nᵒ 3 (2023): 15‑38. https://doi.org/10.3166/rfg.310.15-38.
 
 Dans la section 1, lire l'encadré "Méthodologie"
 - En quoi consiste l'expérience ?
