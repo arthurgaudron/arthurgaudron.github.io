@@ -7,8 +7,6 @@ theme: white
 
 > Maghazei, Omid, Michael A. Lewis, et Torbjørn H. Netland. « Emerging Technologies and the Use Case: A Multi-Year Study of Drone Adoption ». Journal of Operations Management 68, no 6 7 (2022): 560 91. https://doi.org/10.1002/joom.1196.
 
-
-
 # Introduction
 
 ## Industry 4.0
