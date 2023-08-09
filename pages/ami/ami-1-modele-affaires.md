@@ -104,3 +104,7 @@ Dans la section 2, lire la sous-section 2.1 "La mise en altérité des membres d
 - Définir les outils principaux de l’analyse stratégique : PESTEL, Cinq Forces, SWOT
 - Défi du management de l’innovation (Gartner Hype Cycle)
 - Analyser le positionnement stratégique d’une entreprise (rapport annuel et données)
+
+
+Innovation
+Loch, Christoph H. « Creativity and Risk Taking Aren’t Rational: Behavioral Operations in MOT ». Production and Operations Management 26, nᵒ 4 (2017): 591‑604. https://doi.org/10.1111/poms.12666.

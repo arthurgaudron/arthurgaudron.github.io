@@ -107,6 +107,7 @@ Je m’intéresse à un thème : le S&OP. Ce thème est pertinent car il touche 
 > - Journal of Supply Chain Management
 > - Production and Operations Management
 > - Journal of Business Logistics
+> - Transportation Journal
 > 
 > Livres de références : 
 > - Collection Grands Auteurs du management chez EMS Editions

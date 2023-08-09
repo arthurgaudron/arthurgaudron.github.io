@@ -149,7 +149,7 @@ Une demi-journée
 ### Plan de la séance
 - Poésie : la poésie sauvera le monde
 - Cinéma : violence des échanges en milieu tempéré
-- Revue des notes d’analyse : le fond et la forme
+- Revue des notes d’analyse "management" : le fond et la forme
 - Quelques conseils pour la soutenance et les « règles du jeu »
 
 ### Ressources
@@ -163,3 +163,16 @@ Une demi-journée
 ## Séance 6, 7, 8 et 9 
 
 Travail collaboratif
+
+Les séances de travail s’appuient sur un travail entre les pairs. Les étudiant.es partagent leur expérience, leur connaissance et leurs remarques sur les travaux des uns et des autres.
+
+### Durée 
+Une demi-journée
+
+### Plan de la séance
+- Revue des notes par ses pairs
+- Restitutions au groupe des apprentissages suite à la revue par les pairs
+
+### Ressources
+- Toutes les ressources précédentes
+- La section « Les relations interpersonnelles » dans Mandalaki, Emmanouela, et Marie-Michèle Vassiliou. « Comportement organisationnel », Anne Prevost-Bucchianeri éd., Réussir ma 1re année d'école de commerce. Tout comprendre du fonctionnement et de la gestion d’une entreprise. EMS Editions, 2020, pp. 389-442.
