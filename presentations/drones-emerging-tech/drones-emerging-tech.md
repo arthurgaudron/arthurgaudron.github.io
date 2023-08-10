@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Emerging technologies and the use case: A multi-year study of drone adoption"
+title: "A multi-year study of drone adoption"
 permalink: /emerging-technologies/
-theme: white
+theme: solarized
+slideNumber: true
 ---
 
 > Maghazei, Omid, Michael A. Lewis, et Torbjørn H. Netland. « Emerging Technologies and the Use Case: A Multi-Year Study of Drone Adoption ». Journal of Operations Management 68, no 6 7 (2022): 560 91. https://doi.org/10.1002/joom.1196.
@@ -23,15 +24,17 @@ theme: white
 ## Emergence and spread of an innovation
 - DDM is limited to tasks such as prototyping, “soft tooling,” and the on-demand production of customized and spare parts due to high costs
 
-- Drones are used in experimentations and in production : oil platforms inspection (Shell), medical products delivery (Zipline), continual inventory control in its warehouses (IKEA)
+- Drones are used in experimentations and in production : oil platforms inspection (Shell), medical product delivery (Zipline), continual inventory control in its warehouses (IKEA)
 
-# Theoritical framework
+# Theoretical framework
 
 ## Advanced manufacturing technology (AMT)
 
-"AMT, which could “control, track, or monitor manufacturing activities, either directly or indirectly” (Boyer et al., 1997, p. 332)"
+- Control, track, or monitor manufacturing activities, either directly or indirectly (Boyer et al., 1997, p. 332)
 
-"A key theme in the AMT literature (e.g., Jaikumar, 1986; Meredith, 1987; Upton, 1995) was that the challenge of realizing benefits was not a problem “in the technology itself, even though it is new and unstable” (Hayes & Jaikumar, 1991, p. 170) but, instead, was determined by the appropriateness of associated decisions and processes—primarily in terms of the technologies' fit or match with a range of internal and external contingencies."
+- The challenge is not assessing the benefits of an AMT
+
+- It is about "the appropriateness of associated decisions and processes—primarily in terms of the technologies' fit or match with a range of internal and external contingencies."
 
 ## Three types of fits in the classic AMT literature. 
 
@@ -43,45 +46,50 @@ These are the fit between the technology and
 
 ## Technological fit with economic and strategic factors
 
-"Creating “a business case” is critical to this phase, which means identifying and comparing measurable benefits and costs of the technology option (Burcher et al., 1999)."
-- "Managers calculate or estimate economic potential using project finance techniques"
+- Managers calculate or estimate economic potential of a **business case** using project finance techniques
+
 - "AMT researchers have long stressed the limitations of any overreliance on narrow capital budgeting-centered approaches."
 
-It may be truer for infrastructure technologies that have many direct and indirect outcomes (both positive or negative)
+- Especially for infrastructure technologies that have many direct and indirect outcomes (both positive or negative)
 
-Das and Narasimhan (2001, p. 539) reported that “the use of AMT … does not appear to encourage firms to assume ‘off diagonal’ positions in the Hayes and Wheelwright (1979) framework.” (Hayes, R. H., & Jaikumar, R. (1991). Requirements for successful implementation of new manufacturing technologies. Journal of Engineering and Technology Management, 7(3–4), 169–175. )
+## Off diagonal positions
 
-Hayes and Jaikumar (1991, p. 173) argued for a form of options-based appraisal (cf. Pandza et al., 2003), given that many AMT benefits cannot be defined until after the knowledge they create has been assimilated: “Investments in new technology often resemble the ante in a poker game. One does not expect any direct return from the ante itself. It simply allows one to play the next set of cards.”
+![Matching Major Stages of Product and Process Life Cycles](hayes-framework.gif)
 
-**off-diagonal**
+Hayes, Robert H., et Steven C. Wheelwright. « The Dynamics of Process-Product Life Cycles ». Harvard Business Review, 1 mars 1979. https://hbr.org/1979/03/the-dynamics-of-process-product-life-cycles.
 
-“We find that—when faced with fast-emerging technologies in thriving ecosystems—companies do not follow a linear technology adoption pattern, where adoption commonly starts with a business case. Instead, companies trial technologies by focusing on a “use case,” which allows a potential business case to evolve, or not, over time.”
+---
+
+- “Investments in new technology often resemble the ante in a poker game. One does not expect any direct return from the ante itself. It simply allows one to play the next set of cards.” Hayes and Jaikumar (1991, p. 173)
+
+- Das and Narasimhan (2001, p. 539) reported that “the use of AMT … does not appear to encourage firms to assume ‘off diagonal’ positions in the Hayes and Wheelwright (1979) framework.”
+
 
 ## Technological fit with operational and supply chain factors
 
-how the technology integrates with the firms' operating model (Frohlich & Dixon, 1999; Leonard-Barton & Deschamps, 1988; Tyre & Orlikowski, 1994)
+- How the technology integrates with the firms' operating model
 
-This can be particularly challenging if the process affects routines, responsibilities, and reporting channels (Meredith, 1987).
+- This can be particularly challenging if the process affects routines, responsibilities, and reporting channels
 
-In the classic AMT literature (e.g., computer-aided manufacturing, flexible manufacturing systems, etc.) were mainly developed for specific manufacturing applications. 
-- the role of supply systems has been under-investigated.
-- In areas where research has been conducted (e.g., Bessant, 1994), it has been suggested that suppliers perceived most of their buyers (i.e., the manufacturing firms) as unsophisticated customers
-- This buyer–supplier knowledge gap would only exacerbate the challenge of operational fit.
+---
+
+- AMT literature (e.g., computer-aided manufacturing, flexible manufacturing systems, etc.) were mainly developed for specific manufacturing applications. 
+
+  - The role of supply systems has been under-investigated.
+  - Some suppliers perceived most of their buyers (i.e., the manufacturing firms) as unsophisticated customers
+  - This buyer–supplier knowledge gap would only exacerbate the challenge of operational fit.
 
 ## Technological fit with organizational and behavioral factors
 
-If any new technology is to be fully implemented, it will require acceptance by users (e.g., Venkatesh & Davis, 2000)
-- technology adoption process (Waldeck & Leffakis, 2007). 
-- training is key 
+- If any new technology is to be fully implemented, it will require acceptance by users : training is key 
 
-In change management, there is more than training 
-- More recent literature examines the managerial behavioral aspects of technology adoption (e.g., Bendoly & Cotteleer, 2008; **Loch, 2017**; Roscoe et al., 2019)
+- But there is more than training, more recent literature examines the managerial behavioral aspects of technology adoption (e.g. design)
 
 # Field of study
 
 ## Drones are not a traditional AMT
 - not intended for manufacturing applications (leisure and military)
-- flying is unprecedent in factory : open new possibilities but with constraints (flight time, payload, wind turbulence, noise, safety, privacy)
+- flying is unprecedented in factories : open new possibilities but with constraints (flight time, payload, wind turbulence, noise, safety, privacy)
 - flexibility of the on-board equipment (cameras, sensors, and robotic arms)
 - users are familiar with the technology
 
@@ -91,37 +99,39 @@ The business case for drones remains unclear compared with traditional investmen
 
 ## First law of technology
 
-“overestimate[ing] the short-term impact of a truly transformational discovery, while underestimating its longer-term effects.” Collins (2010) 
+- “Overestimate[ing] the short-term impact of a truly transformational discovery, while underestimating its longer-term effects.” Collins (2010) 
 
-See also : Brynjolfsson, Erik, Daniel Rock, et Chad Syverson. « The Productivity J-Curve: How Intangibles Complement General Purpose Technologies ». American Economic Journal: Macroeconomics 13, nᵒ 1 (janvier 2021): 333‑72. https://doi.org/10.1257/mac.20180386.
+- See also : Brynjolfsson, Erik, Daniel Rock, et Chad Syverson. « The Productivity J-Curve: How Intangibles Complement General Purpose Technologies ». American Economic Journal: Macroeconomics 13, nᵒ 1 (janvier 2021): 333‑72. https://doi.org/10.1257/mac.20180386.
 
 ## Exploration vs. Exploitation
+
+> Techniques de l’Ingénieur. « Comprendre les différences entre exploration et exploitation ». Consulté le 9 août 2023. https://www.techniques-ingenieur.fr/fiche-pratique/innovation-th10/l-intrapreneuriat-au-service-de-l-innovation-dt137/comprendre-les-differences-entre-exploration-et-exploitation-1744/.
+
+## Disruption
+
+![The Diruptive Innovation Model](disruptive-innovation-model.png)
 
 ## #2 Fit with operational and supply chain factors
 
 Market pull versus technology push (Mowery & Rosenberg, 1979; Nemet, 2009)
 
- - drones, were developed for non-OM applications and are being pushed onto OM problems
- -  it is often unclear whether a problem needs a technological solution or a technology seeks a problem to resolve
+ - drones were developed for non-OM applications and are being pushed onto OM problems
+ - it is often unclear whether a problem needs a technological solution or a technology seeks a problem to resolve
 
 ## Drone technology ecosystems
 
-One way to address a low perceived fit between emerging technologies and internal operational factors might be to outsource development and deployment to specialized suppliers.
+- One way to address a low perceived fit between emerging technologies and internal operational factors might be to outsource development and deployment to specialized suppliers.
 
-The vivid drone startup industry is actively looking for development partners, implementation pilot projects, and potential customers.
+- The vivid drone startup industry is actively looking for development partners, implementation pilot projects, and potential customers.
 
 ## #3 Fit with organizational and behavioral factors
 
-New technology
-
- - no organizational structures
- - require extensive training
-
-Automation raise the employment question
-
-Creates risks
-
-Negative opinion about the tech
+- New technology
+  - no organizational structures
+  - require extensive training
+- Automation raise the employment question
+- Creates risks (see earlier discussion)
+- Negative opinion about the tech
 
 # Research question
 
@@ -132,11 +142,11 @@ Negative opinion about the tech
 
 # Methodology
 
-This research is a multi-year analysis of drone applications in OM.
+- This research is a multi-year analysis of drone applications in OM.
 
-It takes particular inspiration from Pettigrew's longitudinal case research method (e.g., Pettigrew, 1985, 1990; Pettigrew et al., 2001) and Langley's process studies (e.g., Langley et al., 2013; Langley & Truax, 1994).
+- Case studies are useful when exploring questions about the “why” and “how” of concepts (Yin, 2013)
 
-Case studies are useful when exploring questions about the “why” and “how” of concepts (Yin, 2013)
+- See publication for the details
 
 # Findings 
 
@@ -245,10 +255,14 @@ Case studies are useful when exploring questions about the “why” and “how�
 </tbody>
 </table>
 
+---
+
+“We find that—when faced with fast-emerging technologies in thriving ecosystems—companies do not follow a linear technology adoption pattern, where adoption commonly starts with a business case. Instead, companies trial technologies by focusing on a “use case,” which allows a potential business case to evolve, or not, over time.”
 
 # Discussion
 
 ## Technology push from a thriving ecosystem
+
 
 
 ## Hype and timing
@@ -266,11 +280,11 @@ Procurement readiness to develop and to support experimentation
 
 ## The use case
 
-It differs from the business case, and it comes from Informations Systems literature
+It differs from the business case, and it comes from Information Systems literature
 
 In many ways, the use case is a manifestation of what Orlikowski (2000) called the idea of “technology in practice,” which is a perspective that starts with human action and examines how structures emerge through recurrent interactions with available technology. She notes that some technologies-in-practice (not all) can become institutionalized over time, but this is rarely permanent. Moreover, the familiar “black box” notion of technology only exists as a result of stable patterns of use (Latour, 1987). In observing this nascent technology, we were inside the black box and were forced to explore different possible technological–organizational connections.
 
-## Futur research
+## Future research
 
 It is likely that such characteristics will be similar for other Industry 4.0 technologies, such as AI, blockchain, and wearables—where the original application space was far from the factory.
 
