@@ -51,6 +51,7 @@ header_pages:
    - about.md
    - category.md
    - cours.md
+   - presentations.md
 
 # Set to `true` to show excerpts on the homepage.
 #

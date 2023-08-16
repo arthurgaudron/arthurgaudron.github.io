@@ -109,6 +109,10 @@ Je m’intéresse à un thème : le S&OP. Ce thème est pertinent car il touche 
 > - Journal of Business Logistics
 > - Transportation Journal
 > 
+> La presse spécialisée :
+> - Harvard Business Review
+> - Supply Chain Management Review
+>
 > Livres de références : 
 > - Collection Grands Auteurs du management chez EMS Editions
 > - Handbook on [Supply Chain, Lean management, etc.] 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Modèle d'affaires et stratégie
-permalink: /modele-affaires/
+title: Modèle économique et stratégie
+permalink: /modele-économique/
 ---
 
 [Retour au programme du cours AMI](/ami/)
@@ -9,7 +9,7 @@ permalink: /modele-affaires/
 ## 1. Découverte du canvas
 
 ### Objectifs pédagogiques
-- Définir un modèle d’affaire
+- Définir un modèle économique
 - Définir les neuf éléments constituant le Canvas Business Model
 - Appliquer le Canvas Business Model sur un exemple 	
 
@@ -20,8 +20,8 @@ permalink: /modele-affaires/
 ## 2. Mettre en oeuvre le canvas
 
 ### Objectifs pédagogiques
-- Discuter le modèle d'affaires d'une entreprise
-- Proposer des alternatives au modèle d'affaires
+- Discuter le modèle économique d'une entreprise
+- Proposer des alternatives au modèle économique
 - Discuter le concept du Canvas Business Model
 
 ### Contenu
@@ -30,7 +30,7 @@ permalink: /modele-affaires/
     
 ![LEAP](/assets/ami-1-canvas-biz-model/LEAP_Picture_Table.jpg)
 
-En binôme ou en trinôme, choisissez une entreprise dont vous souhaitez analyser le modèle d'affaires. Vous pouvez trouver l'inspiration dans le stock de magazines Bloomberg Businessweek.
+En binôme ou en trinôme, choisissez une entreprise dont vous souhaitez analyser le modèle économique. Vous pouvez trouver l'inspiration dans le stock de magazines Bloomberg Businessweek.
 
 ![Bloomberg Businessweek](/assets/ami-1-canvas-biz-model/businessweek.jpg)
 
@@ -42,11 +42,11 @@ En binôme ou en trinôme, choisissez une entreprise dont vous souhaitez analyse
 
 #### Phase 2
 
-Vous pouvez maintenant utiliser les cartes du jeu pour proposer un modèle d'affaires alternatif avec des post-its jaunes.
+Vous pouvez maintenant utiliser les cartes du jeu pour proposer un modèle économique alternatif avec des post-its jaunes.
 
 #### Phase 3
 
-Débriefing collectif sur les modèles d'affaires étudiés et sur l'apport conceptuel du canvas.
+Débriefing collectif sur les modèles économique étudiés et sur l'apport conceptuel du canvas.
 
 
 ## 3. Analyse des compétences transversales
