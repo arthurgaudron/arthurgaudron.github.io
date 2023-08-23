@@ -40,6 +40,11 @@ Symbole de l’intellectuel ? refus de la société du spectacle ?
 > - Identifier différentes phases dans la vidéo
 > - Expliquer la motivation de l’auteur pour aborder chacune de ces phases. 
 
+### De l'importance du contexte
+
+https://www.radiofrance.fr/franceinter/podcasts/un-ete-avec-don-quichotte/un-ete-avec-don-quichotte-du-mercredi-19-juillet-2023-5667391
+
+
 ## 2. Anatomie d’une note d’analyse et d’un mémoire
 
 Pour apprendre sur l’anatomie, disséquons deux types de documents : les articles (de revue et de conférence) et le reste.

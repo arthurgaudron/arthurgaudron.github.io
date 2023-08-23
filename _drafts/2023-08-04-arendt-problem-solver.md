@@ -12,3 +12,4 @@ Leong, Ching, et Michael Howlett. « Soft OR as a response to inherent vices: P
 
 special issue on policy
 
+Le problème du lien entre planification et contrôle 

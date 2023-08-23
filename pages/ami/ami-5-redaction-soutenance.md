@@ -23,6 +23,18 @@ Après l’écoute de William Marx ou Denis Lavant, quels conseils pourriez-vous
 « Un été avec don Quichotte » de William Marx 
 https://www.radiofrance.fr/franceinter/podcasts/un-ete-avec-don-quichotte
 
+Exemple de construction avec diction
+
+Introduction 
+
+Problématique 
+
+Conclusion 
+
+
+"Où don Quichotte débarque à Saint-Germain-des-Prés" sur https://www.radiofrance.fr/franceinter/podcasts/un-ete-avec-don-quichotte/un-ete-avec-don-quichotte-du-lundi-10-juillet-2023-1797266 via @radiofrance
+
+
 
 Un seul objectif : montrer votre respect envers le jury (et le public)
 1.	Maîtrise de votre sujet : allez à l’essentiel, provoquez les questions
