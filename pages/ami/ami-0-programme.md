@@ -52,18 +52,18 @@ Date de soumission :
 
 ### Séance 1 
 
-[Le modèle d'affaires et stratégie](/modele-affaires/)
+[Le modèle économique et stratégie](/modele-economique/)
 
-La séance est en introduction du MS MISL pour souligner que le but d’une organisation est de créer et de capturer de la valeur. Nous soulignerons que la maîtrise de la chaîne logistique est un moyen pour réaliser ce but et non pas une fin en soi. Pour atteindre ce but, une organisation s’appuie sur un modèle d’affaires (ou business model en anglais).
+La séance est en introduction du MS MISL pour souligner que le but d’une organisation est de créer et de capturer de la valeur. Nous soulignerons que la maîtrise de la chaîne logistique est un moyen pour réaliser ce but et non pas une fin en soi. Pour atteindre ce but, une organisation s’appuie sur un modèle économique (ou business model en anglais).
 
 #### Durée
 Une journée
 
 #### Plan de la séance
-- Introduction et illustration des concepts fondamentaux des modèles d’affaires
-- Mise en situation avec le jeu pédagogique LEAP pour la création d’un modèle d’affaires
+- Introduction et illustration des concepts fondamentaux des modèles économique
+- Mise en situation avec le jeu pédagogique LEAP pour la création d’un modèle économique
 - Débriefing de la mise en situation
-- Analyse stratégique d’un modèle d’affaires 
+- Analyse stratégique d’un modèle économique 
 
 #### Ressources
 - Osterwalder, Alexander, et Yves Pigneur. Business model generation: a handbook for visionaries, game changers, and challengers. Vol. 1. John Wiley & Sons, 2010.

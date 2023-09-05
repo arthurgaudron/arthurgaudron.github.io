@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modèle économique et stratégie
-permalink: /modele-économique/
+permalink: /modele-economique/
 ---
 
 [Retour au programme du cours AMI](/ami/)
