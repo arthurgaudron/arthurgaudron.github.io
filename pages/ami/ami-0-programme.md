@@ -26,9 +26,9 @@ Les modalités sont identiques pour les trois évaluations : 3 points pour la pa
 
 Détails des attendus pour le fond :
 - introduction : définition du contexte, pertinence de la problématique et du cadre d'analyse (4 points)
-- méthodologie : pertinence de la démarche de recherche (2 points)
+- méthodologie : pertinence de la démarche de recherche (3 points)
 - résultats : présentation des données et analyse des données (3 points)
-- discussion et conclusion : contributions managériales pour le management des opérations et la supply chain (3 points)
+- discussion et conclusion : contributions managériales pour le management des opérations et la supply chain (4 points)
 
 #### Note d'analyse "management" (30%)
 
