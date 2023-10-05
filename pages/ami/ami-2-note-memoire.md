@@ -260,7 +260,8 @@ Introduction
     - L'intérêt de répondre à cette problématique est clairement énoncé.
 
 Méthodologie
-- La méthodologie est cohérente avec la problématique et rigoureuse (p. ex. choix des sources et des experts). - La méthodologie est réaliste (p. ex. réalisable dans les délais).
+- La méthodologie est cohérente avec la problématique et rigoureuse (p. ex. choix des sources et des experts). 
+- La méthodologie est réaliste (p. ex. réalisable dans les délais).
 
 Résultats
 - Les résultats sont présentés au travers d’une vision synthétique.
@@ -271,7 +272,8 @@ Discussion
 - La contribution managériale est clairement énoncée et mise en perspective.
 
 Texte complet
--  Toutes les sections apparaissent.
+- Toutes les sections apparaissent.
+- Transition entre les sections
 
 Structure
 - Les titres et intertitres sont bien conçus pour se retrouver dans le texte.
@@ -281,7 +283,6 @@ Tableau et figures
 - Les éléments graphiques offrent une grande valeur ajoutée pour la compréhension de l'article.
 - férences et citations
 - Les références et les citations sont correctement représentées et de manière uniforme.
-- cabulaire
 - Le vocabulaire général et scientifique employé est correct, adéquat, et précis.
 
 Style
@@ -289,6 +290,5 @@ Style
 - Le niveau de langue est adéquat.
 
 Grammaire, orthographe et ponctuation
-- Le texte ne comporte pas d'erreurs graves de grammaire, d'orthographe ou de ponctuation.
-- se en page
+- Le texte ne comporte pas d'erreurs de grammaire, d'orthographe ou de ponctuation.
 - La mise en page de l'article est parfaitement maîtrisée.
